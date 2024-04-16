@@ -10,9 +10,6 @@
 3,Movie,9,United States,2009,PG-13,80 min, Independent Movies,840
 3,Movie,9,United States,2009,PG-13,80 min, Sci-Fi & Fantasy,840
 4,Movie,21,United States,2008,PG-13,123 min,Dramas,840
-5,TV Show,46,Turkey,2016,TV-MA,1 Season,International TV Shows,
-5,TV Show,46,Turkey,2016,TV-MA,1 Season, TV Dramas,
-5,TV Show,46,Turkey,2016,TV-MA,1 Season, TV Mysteries,
 6,Movie,122,Egypt,2019,TV-MA,95 min,Horror Movies,818
 6,Movie,122,Egypt,2019,TV-MA,95 min, International Movies,818
 7,Movie,187,United States,1997,R,119 min,Dramas,840
@@ -92,19 +89,12 @@
 37,Movie,#Selfie 69,Romania,2016,TV-MA,119 min, International Movies,642
 39,Movie,"¡Ay, mi madre!",Spain,2019,TV-MA,81 min,Comedies,724
 39,Movie,"¡Ay, mi madre!",Spain,2019,TV-MA,81 min, International Movies,724
-40,Movie,Çarsi Pazar,Turkey,2015,TV-14,97 min,Comedies,
-40,Movie,Çarsi Pazar,Turkey,2015,TV-14,97 min, International Movies,
 41,Movie,Ég man þig,Iceland,2017,TV-MA,106 min,Horror Movies,352
 41,Movie,Ég man þig,Iceland,2017,TV-MA,106 min, International Movies,352
-42,Movie,Çok Filim Hareketler Bunlar,Turkey,2010,TV-MA,99 min,Comedies,
-42,Movie,Çok Filim Hareketler Bunlar,Turkey,2010,TV-MA,99 min, International Movies,
 43,Movie,Òlòtūré,Nigeria,2020,TV-MA,107 min,Dramas,566
 43,Movie,Òlòtūré,Nigeria,2020,TV-MA,107 min, International Movies,566
 44,Movie,Æon Flux,United States,2005,PG-13,93 min,Action & Adventure,840
 44,Movie,Æon Flux,United States,2005,PG-13,93 min, Sci-Fi & Fantasy,840
-45,TV Show,Şubat,Turkey,2013,TV-MA,1 Season,Crime TV Shows,
-45,TV Show,Şubat,Turkey,2013,TV-MA,1 Season, International TV Shows,
-45,TV Show,Şubat,Turkey,2013,TV-MA,1 Season, TV Dramas,
 46,Movie,1 Chance 2 Dance,United States,2014,TV-PG,89 min,Dramas,840
 46,Movie,1 Chance 2 Dance,United States,2014,TV-PG,89 min, Romantic Movies,840
 47,Movie,1 Mile to You,United States,2017,TV-14,105 min,Dramas,840
@@ -189,9 +179,6 @@
 78,Movie,2 States,India,2014,TV-PG,143 min, International Movies,356
 79,Movie,20 Feet From Stardom,United States,2013,PG-13,91 min,Documentaries,840
 79,Movie,20 Feet From Stardom,United States,2013,PG-13,91 min, Music & Musicals,840
-80,TV Show,20 Minutes,Turkey,2013,TV-MA,1 Season,Crime TV Shows,
-80,TV Show,20 Minutes,Turkey,2013,TV-MA,1 Season, International TV Shows,
-80,TV Show,20 Minutes,Turkey,2013,TV-MA,1 Season, TV Dramas,
 81,Movie,2015 Dream Concert,South Korea,2015,TV-PG,107 min,International Movies,410
 81,Movie,2015 Dream Concert,South Korea,2015,TV-PG,107 min, Music & Musicals,410
 82,Movie,2036 Origin Unknown,United Kingdom,2018,TV-14,95 min,Sci-Fi & Fantasy,826
@@ -381,9 +368,6 @@
 154,Movie,A California Christmas,United States,2020,PG-13,107 min, Romantic Movies,840
 155,Movie,A Champion Heart,United States,2018,G,90 min,Children & Family Movies,840
 155,Movie,A Champion Heart,United States,2018,G,90 min, Dramas,840
-156,Movie,A Chaster Marriage,Turkey,2016,TV-14,94 min,Comedies,
-156,Movie,A Chaster Marriage,Turkey,2016,TV-14,94 min, International Movies,
-156,Movie,A Chaster Marriage,Turkey,2016,TV-14,94 min, Romantic Movies,
 157,Movie,A Choo,Taiwan,2020,TV-14,101 min,Action & Adventure,158
 157,Movie,A Choo,Taiwan,2020,TV-14,101 min, International Movies,158
 157,Movie,A Choo,Taiwan,2020,TV-14,101 min, Romantic Movies,158
@@ -668,9 +652,6 @@
 262,Movie,A.X.L.,United States,2018,PG,99 min,Action & Adventure,840
 262,Movie,A.X.L.,United States,2018,PG,99 min, Children & Family Movies,840
 262,Movie,A.X.L.,United States,2018,PG,99 min, Independent Movies,840
-263,Movie,Aşk Tesadüfleri Sever,Turkey,2011,TV-MA,122 min,Dramas,
-263,Movie,Aşk Tesadüfleri Sever,Turkey,2011,TV-MA,122 min, International Movies,
-263,Movie,Aşk Tesadüfleri Sever,Turkey,2011,TV-MA,122 min, Romantic Movies,
 264,Movie,Aadu 2,India,2017,TV-MA,150 min,Comedies,356
 264,Movie,Aadu 2,India,2017,TV-MA,150 min, International Movies,356
 265,Movie,Aagey Se Right,India,2009,TV-14,117 min,Comedies,356
@@ -768,8 +749,6 @@
 297,Movie,Across the Universe,United Kingdom,2007,PG-13,133 min, Music & Musicals,826
 297,Movie,Across the Universe,United Kingdom,2007,PG-13,133 min, Romantic Movies,826
 298,Movie,Act of Valor,United States,2012,R,110 min,Action & Adventure,840
-299,Movie,Act of Vengeance,Turkey,2010,NR,112 min,Action & Adventure,
-299,Movie,Act of Vengeance,Turkey,2010,NR,112 min, International Movies,
 299,Movie,Act of Vengeance,United States,2010,NR,112 min,Action & Adventure,840
 299,Movie,Act of Vengeance,United States,2010,NR,112 min, International Movies,840
 300,Movie,Action Replayy,India,2010,TV-PG,129 min,Children & Family Movies,356
@@ -869,9 +848,6 @@
 338,TV Show,Age of Tanks,France,2017,TV-PG,1 Season,Docuseries,250
 338,TV Show,Age of Tanks,France,2017,TV-PG,1 Season, International TV Shows,250
 338,TV Show,Age of Tanks,France,2017,TV-PG,1 Season, Science & Nature TV,250
-338,TV Show,Age of Tanks,Russia,2017,TV-PG,1 Season,Docuseries,
-338,TV Show,Age of Tanks,Russia,2017,TV-PG,1 Season, International TV Shows,
-338,TV Show,Age of Tanks,Russia,2017,TV-PG,1 Season, Science & Nature TV,
 339,TV Show,Agent,Mauritius,2019,TV-MA,1 Season,International TV Shows,480
 339,TV Show,Agent,Mauritius,2019,TV-MA,1 Season, TV Dramas,480
 339,TV Show,Agent,South Africa,2019,TV-MA,1 Season,International TV Shows,710
@@ -987,9 +963,6 @@
 384,Movie,Ali & Alia,United Arab Emirates,2019,TV-14,106 min,Dramas,784
 384,Movie,Ali & Alia,United Arab Emirates,2019,TV-14,106 min, International Movies,784
 384,Movie,Ali & Alia,United Arab Emirates,2019,TV-14,106 min, Romantic Movies,784
-385,Movie,Ali Baba ve 7 Cüceler,Turkey,2015,TV-MA,115 min,Action & Adventure,
-385,Movie,Ali Baba ve 7 Cüceler,Turkey,2015,TV-MA,115 min, Comedies,
-385,Movie,Ali Baba ve 7 Cüceler,Turkey,2015,TV-MA,115 min, International Movies,
 386,Movie,Ali Wong: Baby Cobra,United States,2016,TV-MA,60 min,Stand-Up Comedy,840
 387,Movie,Ali Wong: Hard Knock Wife,United States,2018,TV-MA,64 min,Stand-Up Comedy,840
 388,Movie,Ali's Wedding,Australia,2018,TV-MA,110 min,Comedies,036
@@ -998,9 +971,6 @@
 389,TV Show,Alias Grace,Canada,2017,TV-MA,1 Season,Crime TV Shows,124
 389,TV Show,Alias Grace,Canada,2017,TV-MA,1 Season, International TV Shows,124
 389,TV Show,Alias Grace,Canada,2017,TV-MA,1 Season, TV Dramas,124
-391,Movie,Alibaba Aur 40 Chor,Soviet Union,1980,TV-14,147 min,Action & Adventure,
-391,Movie,Alibaba Aur 40 Chor,Soviet Union,1980,TV-14,147 min, International Movies,
-391,Movie,Alibaba Aur 40 Chor,Soviet Union,1980,TV-14,147 min, Sci-Fi & Fantasy,
 391,Movie,Alibaba Aur 40 Chor,India,1980,TV-14,147 min,Action & Adventure,356
 391,Movie,Alibaba Aur 40 Chor,India,1980,TV-14,147 min, International Movies,356
 391,Movie,Alibaba Aur 40 Chor,India,1980,TV-14,147 min, Sci-Fi & Fantasy,356
@@ -1188,8 +1158,6 @@
 477,Movie,Amit Tandon: Family Tandoncies,India,2019,TV-14,72 min,Stand-Up Comedy,356
 478,TV Show,AMO,Philippines,2017,TV-MA,1 Season,International TV Shows,608
 478,TV Show,AMO,Philippines,2017,TV-MA,1 Season, TV Dramas,608
-479,Movie,Among Family,Turkey,2017,TV-14,127 min,Comedies,
-479,Movie,Among Family,Turkey,2017,TV-14,127 min, International Movies,
 480,Movie,Amrapali,India,1966,TV-PG,116 min,Dramas,356
 480,Movie,Amrapali,India,1966,TV-PG,116 min, International Movies,356
 480,Movie,Amrapali,India,1966,TV-PG,116 min, Music & Musicals,356
@@ -1690,10 +1658,6 @@
 660,Movie,Baahubali: The Beginning (Hindi Version),India,2015,TV-14,159 min, International Movies,356
 663,Movie,Baazaar,India,2018,TV-MA,136 min,Dramas,356
 663,Movie,Baazaar,India,2018,TV-MA,136 min, International Movies,356
-664,Movie,Babam ve Oğlum,Turkey,2005,TV-14,112 min,Dramas,
-664,Movie,Babam ve Oğlum,Turkey,2005,TV-14,112 min, International Movies,
-665,Movie,Babamın Ceketi,Turkey,2018,TV-MA,101 min,Comedies,
-665,Movie,Babamın Ceketi,Turkey,2018,TV-MA,101 min, International Movies,
 666,Movie,Babel,France,2006,R,143 min,Dramas,250
 666,Movie,Babel,France,2006,R,143 min, Independent Movies,250
 666,Movie,Babel,United States,2006,R,143 min,Dramas,840
@@ -1808,9 +1772,6 @@
 710,Movie,Balto 3: Wings of Change,United States,2004,G,78 min,Children & Family Movies,840
 711,Movie,Balu Mahi,Pakistan,2017,TV-MA,149 min,International Movies,586
 711,Movie,Balu Mahi,Pakistan,2017,TV-MA,149 min, Romantic Movies,586
-712,Movie,Bana Masal Anlatma,Turkey,2015,TV-14,103 min,Comedies,
-712,Movie,Bana Masal Anlatma,Turkey,2015,TV-14,103 min, International Movies,
-712,Movie,Bana Masal Anlatma,Turkey,2015,TV-14,103 min, Romantic Movies,
 713,Movie,Banana Island Ghost,Nigeria,2017,TV-14,108 min,Comedies,566
 713,Movie,Banana Island Ghost,Nigeria,2017,TV-14,108 min, International Movies,566
 714,Movie,Banana Split,United States,2020,TV-MA,84 min,Comedies,840
@@ -1992,7 +1953,6 @@
 778,TV Show,Be with You,Taiwan,2015,TV-14,1 Season,International TV Shows,158
 778,TV Show,Be with You,Taiwan,2015,TV-14,1 Season, Romantic TV Shows,158
 778,TV Show,Be with You,Taiwan,2015,TV-14,1 Season, TV Dramas,158
-779,TV Show,Be-Be-Bears,Russia,2018,TV-Y,1 Season,Kids' TV,
 780,Movie,Beak & Brain: Genius Birds From Down Under,Germany,2013,TV-G,52 min,Documentaries,276
 780,Movie,Beak & Brain: Genius Birds From Down Under,Germany,2013,TV-G,52 min, International Movies,276
 781,Movie,Bean: The Ultimate Disaster Movie,United Kingdom,1997,PG-13,89 min,Comedies,826
@@ -2071,9 +2031,6 @@
 812,Movie,Behind the Curtain: Todrick Hall,United States,2017,TV-MA,100 min, LGBTQ Movies,840
 812,Movie,Behind the Curtain: Todrick Hall,United States,2017,TV-MA,100 min, Music & Musicals,840
 813,Movie,Behind the Curve,United States,2018,TV-14,96 min,Documentaries,840
-815,TV Show,Behzat Ç.,Turkey,2010,TV-MA,1 Season,Crime TV Shows,
-815,TV Show,Behzat Ç.,Turkey,2010,TV-MA,1 Season, International TV Shows,
-815,TV Show,Behzat Ç.,Turkey,2010,TV-MA,1 Season, TV Dramas,
 816,Movie,Beiimaan Love,India,2016,TV-MA,115 min,Dramas,356
 816,Movie,Beiimaan Love,India,2016,TV-MA,115 min, International Movies,356
 816,Movie,Beiimaan Love,India,2016,TV-MA,115 min, Romantic Movies,356
@@ -2130,9 +2087,6 @@
 838,Movie,Berlin Calling,Germany,2008,TV-MA,105 min,Dramas,276
 838,Movie,Berlin Calling,Germany,2008,TV-MA,105 min, International Movies,276
 838,Movie,Berlin Calling,Germany,2008,TV-MA,105 min, Music & Musicals,276
-839,Movie,Berlin Kaplani,Turkey,2012,TV-14,99 min,Comedies,
-839,Movie,Berlin Kaplani,Turkey,2012,TV-14,99 min, International Movies,
-839,Movie,Berlin Kaplani,Turkey,2012,TV-14,99 min, Sports Movies,
 840,Movie,Berlin Syndrome,Australia,2017,R,116 min,International Movies,036
 840,Movie,Berlin Syndrome,Australia,2017,R,116 min, Thrillers,036
 841,Movie,"Berlin, Berlin: Lolle on the Run",Germany,2020,TV-MA,82 min,Comedies,276
@@ -2172,9 +2126,6 @@
 858,TV Show,Better Call Saul,United States,2018,TV-MA,4 Seasons,Crime TV Shows,840
 858,TV Show,Better Call Saul,United States,2018,TV-MA,4 Seasons, TV Comedies,840
 858,TV Show,Better Call Saul,United States,2018,TV-MA,4 Seasons, TV Dramas,840
-859,TV Show,Better Than Us,Russia,2019,TV-MA,1 Season,Crime TV Shows,
-859,TV Show,Better Than Us,Russia,2019,TV-MA,1 Season, International TV Shows,
-859,TV Show,Better Than Us,Russia,2019,TV-MA,1 Season, TV Dramas,
 860,Movie,Betting on Zero,United States,2017,TV-PG,104 min,Documentaries,840
 861,Movie,Betty White: First Lady of Television,United States,2018,TV-14,56 min,Documentaries,840
 862,TV Show,Between,Canada,2016,TV-14,2 Seasons,International TV Shows,124
@@ -2197,9 +2148,6 @@
 870,TV Show,Beyblade Burst Rise,Japan,2019,TV-Y7,1 Season, Kids' TV,392
 872,TV Show,Beyblade: Metal Fusion,Japan,2009,TV-Y7,1 Season,Anime Series,392
 872,TV Show,Beyblade: Metal Fusion,Japan,2009,TV-Y7,1 Season, Kids' TV,392
-873,Movie,Beynelmilel,Turkey,2006,TV-MA,102 min,Comedies,
-873,Movie,Beynelmilel,Turkey,2006,TV-MA,102 min, Dramas,
-873,Movie,Beynelmilel,Turkey,2006,TV-MA,102 min, International Movies,
 874,Movie,Beyond All Boundaries,United States,2013,TV-14,98 min,Documentaries,840
 874,Movie,Beyond All Boundaries,United States,2013,TV-14,98 min, International Movies,840
 874,Movie,Beyond All Boundaries,United States,2013,TV-14,98 min, Sports Movies,840
@@ -2344,9 +2292,6 @@
 932,Movie,Bioscope,India,2015,TV-14,131 min,Dramas,356
 932,Movie,Bioscope,India,2015,TV-14,131 min, International Movies,356
 932,Movie,Bioscope,India,2015,TV-14,131 min, LGBTQ Movies,356
-933,Movie,Bir Baba Hindu,Turkey,2016,TV-MA,107 min,Action & Adventure,
-933,Movie,Bir Baba Hindu,Turkey,2016,TV-MA,107 min, Comedies,
-933,Movie,Bir Baba Hindu,Turkey,2016,TV-MA,107 min, International Movies,
 933,Movie,Bir Baba Hindu,India,2016,TV-MA,107 min,Action & Adventure,356
 933,Movie,Bir Baba Hindu,India,2016,TV-MA,107 min, Comedies,356
 933,Movie,Bir Baba Hindu,India,2016,TV-MA,107 min, International Movies,356
@@ -2417,9 +2362,6 @@
 951,Movie,Black Hawk Down,United States,2001,R,144 min, Dramas,840
 951,Movie,Black Hawk Down,United Kingdom,2001,R,144 min,Action & Adventure,826
 951,Movie,Black Hawk Down,United Kingdom,2001,R,144 min, Dramas,826
-952,TV Show,Black Heart,Turkey,2014,TV-14,1 Season,Crime TV Shows,
-952,TV Show,Black Heart,Turkey,2014,TV-14,1 Season, International TV Shows,
-952,TV Show,Black Heart,Turkey,2014,TV-14,1 Season, TV Dramas,
 953,TV Show,Black Ink Crew New York,United States,2014,TV-14,2 Seasons,Reality TV,840
 954,TV Show,Black Lightning,United States,2019,TV-14,3 Seasons,TV Action & Adventure,840
 954,TV Show,Black Lightning,United States,2019,TV-14,3 Seasons, TV Dramas,840
@@ -2432,21 +2374,13 @@
 957,Movie,Black Mirror: Bandersnatch,United States,2018,TV-MA,312 min,Dramas,840
 957,Movie,Black Mirror: Bandersnatch,United States,2018,TV-MA,312 min, International Movies,840
 957,Movie,Black Mirror: Bandersnatch,United States,2018,TV-MA,312 min, Sci-Fi & Fantasy,840
-958,TV Show,Black Money Love,Turkey,2014,TV-MA,1 Season,Crime TV Shows,
-958,TV Show,Black Money Love,Turkey,2014,TV-MA,1 Season, International TV Shows,
-958,TV Show,Black Money Love,Turkey,2014,TV-MA,1 Season, TV Dramas,
 959,Movie,Black Panther,United States,2018,PG-13,135 min,Action & Adventure,840
 959,Movie,Black Panther,United States,2018,PG-13,135 min, Sci-Fi & Fantasy,840
-960,Movie,Black Rose,Russia,2014,TV-MA,83 min,Action & Adventure,
-960,Movie,Black Rose,Russia,2014,TV-MA,83 min, International Movies,
 960,Movie,Black Rose,United States,2014,TV-MA,83 min,Action & Adventure,840
 960,Movie,Black Rose,United States,2014,TV-MA,83 min, International Movies,840
 961,Movie,Black Sea,United Kingdom,2015,R,114 min,Action & Adventure,826
 961,Movie,Black Sea,United Kingdom,2015,R,114 min, Dramas,826
 961,Movie,Black Sea,United Kingdom,2015,R,114 min, International Movies,826
-961,Movie,Black Sea,Russia,2015,R,114 min,Action & Adventure,
-961,Movie,Black Sea,Russia,2015,R,114 min, Dramas,
-961,Movie,Black Sea,Russia,2015,R,114 min, International Movies,
 961,Movie,Black Sea,United States,2015,R,114 min,Action & Adventure,840
 961,Movie,Black Sea,United States,2015,R,114 min, Dramas,840
 961,Movie,Black Sea,United States,2015,R,114 min, International Movies,840
@@ -2670,8 +2604,6 @@
 1041,Movie,Bonnie and Clyde,United States,1967,R,111 min, Dramas,840
 1042,TV Show,Bonus Family,Sweden,2019,TV-MA,3 Seasons,International TV Shows,752
 1042,TV Show,Bonus Family,Sweden,2019,TV-MA,3 Seasons, TV Dramas,752
-1043,TV Show,Booba,Russia,2019,TV-Y7,3 Seasons,Kids' TV,
-1043,TV Show,Booba,Russia,2019,TV-Y7,3 Seasons, TV Comedies,
 1044,TV Show,Bookmarks,United States,2020,TV-Y,1 Season,Kids' TV,840
 1045,Movie,Boom,India,2003,TV-MA,79 min,Action & Adventure,356
 1045,Movie,Boom,India,2003,TV-MA,79 min, Dramas,356
@@ -2715,8 +2647,6 @@
 1057,Movie,Born Strong,United States,2017,TV-MA,86 min, Sports Movies,840
 1058,Movie,Born to Be Free,United Kingdom,2016,TV-14,74 min,Documentaries,826
 1058,Movie,Born to Be Free,United Kingdom,2016,TV-14,74 min, International Movies,826
-1058,Movie,Born to Be Free,Russia,2016,TV-14,74 min,Documentaries,
-1058,Movie,Born to Be Free,Russia,2016,TV-14,74 min, International Movies,
 1059,Movie,Boss,India,2013,TV-14,139 min,Action & Adventure,356
 1059,Movie,Boss,India,2013,TV-14,139 min, Comedies,356
 1059,Movie,Boss,India,2013,TV-14,139 min, Dramas,356
@@ -2849,9 +2779,6 @@
 1112,Movie,Brother,France,2019,TV-MA,97 min,Dramas,250
 1112,Movie,Brother,France,2019,TV-MA,97 min, Independent Movies,250
 1112,Movie,Brother,France,2019,TV-MA,97 min, International Movies,250
-1113,Movie,Brother in Love,Turkey,2019,TV-MA,110 min,Comedies,
-1113,Movie,Brother in Love,Turkey,2019,TV-MA,110 min, International Movies,
-1113,Movie,Brother in Love,Turkey,2019,TV-MA,110 min, Romantic Movies,
 1114,Movie,Brother's Shadow,United States,2006,TV-MA,90 min,Dramas,840
 1114,Movie,Brother's Shadow,United States,2006,TV-MA,90 min, Independent Movies,840
 1115,TV Show,Brotherhood,Brazil,2019,TV-MA,1 Season,Crime TV Shows,076
@@ -2928,8 +2855,6 @@
 1143,Movie,Burn Out,France,2017,TV-MA,104 min, International Movies,250
 1143,Movie,Burn Out,Belgium,2017,TV-MA,104 min,Action & Adventure,056
 1143,Movie,Burn Out,Belgium,2017,TV-MA,104 min, International Movies,056
-1144,TV Show,Burned Cocoon,Turkey,2005,TV-MA,1 Season,International TV Shows,
-1144,TV Show,Burned Cocoon,Turkey,2005,TV-MA,1 Season, TV Dramas,
 1145,Movie,Burning,South Korea,2018,TV-MA,148 min,Dramas,410
 1145,Movie,Burning,South Korea,2018,TV-MA,148 min, Independent Movies,410
 1145,Movie,Burning,South Korea,2018,TV-MA,148 min, International Movies,410
@@ -2974,9 +2899,6 @@
 1156,Movie,Bye Bye London,Kuwait,1981,TV-14,177 min,Comedies,414
 1156,Movie,Bye Bye London,Kuwait,1981,TV-14,177 min, Dramas,414
 1156,Movie,Bye Bye London,Kuwait,1981,TV-14,177 min, International Movies,414
-1157,Movie,Bygones Be Bygones,Turkey,2017,TV-MA,104 min,Comedies,
-1157,Movie,Bygones Be Bygones,Turkey,2017,TV-MA,104 min, International Movies,
-1157,Movie,Bygones Be Bygones,Turkey,2017,TV-MA,104 min, Romantic Movies,
 1158,Movie,Bypass Road,India,2019,TV-14,135 min,International Movies,356
 1158,Movie,Bypass Road,India,2019,TV-14,135 min, Thrillers,356
 1159,Movie,C Kkompany,India,2008,TV-14,127 min,Action & Adventure,356
@@ -3516,9 +3438,6 @@
 1387,Movie,CIA: Comrade in America,India,2017,TV-14,130 min,Action & Adventure,356
 1387,Movie,CIA: Comrade in America,India,2017,TV-14,130 min, Dramas,356
 1387,Movie,CIA: Comrade in America,India,2017,TV-14,130 min, International Movies,356
-1388,Movie,Cinar Agaci,Turkey,2011,TV-14,115 min,Comedies,
-1388,Movie,Cinar Agaci,Turkey,2011,TV-14,115 min, Dramas,
-1388,Movie,Cinar Agaci,Turkey,2011,TV-14,115 min, International Movies,
 1389,TV Show,Cinderella and the Four Knights,South Korea,2016,TV-PG,1 Season,International TV Shows,410
 1389,TV Show,Cinderella and the Four Knights,South Korea,2016,TV-PG,1 Season, Korean TV Shows,410
 1389,TV Show,Cinderella and the Four Knights,South Korea,2016,TV-PG,1 Season, Romantic TV Shows,410
@@ -3564,8 +3483,6 @@
 1403,Movie,City of Tiny Lights,United Kingdom,2016,TV-MA,110 min, Thrillers,826
 1404,TV Show,Civilizations,United Kingdom,2018,TV-14,1 Season,British TV Shows,826
 1404,TV Show,Civilizations,United Kingdom,2018,TV-14,1 Season, Docuseries,826
-1405,Movie,Clair Obscur,Turkey,2016,TV-MA,102 min,Dramas,
-1405,Movie,Clair Obscur,Turkey,2016,TV-MA,102 min, International Movies,
 1405,Movie,Clair Obscur,France,2016,TV-MA,102 min,Dramas,250
 1405,Movie,Clair Obscur,France,2016,TV-MA,102 min, International Movies,250
 1405,Movie,Clair Obscur,Germany,2016,TV-MA,102 min,Dramas,276
@@ -3793,12 +3710,6 @@
 1483,TV Show,Connected,United Kingdom,2020,TV-14,1 Season, Science & Nature TV,826
 1484,Movie,Conor McGregor: Notorious,Ireland,2017,R,90 min,Documentaries,372
 1484,Movie,Conor McGregor: Notorious,Ireland,2017,R,90 min, Sports Movies,372
-1485,Movie,Consequences,Turkey,2014,TV-MA,106 min,Dramas,
-1485,Movie,Consequences,Turkey,2014,TV-MA,106 min, International Movies,
-1485,Movie,Consequences,Turkey,2014,TV-MA,106 min, Thrillers,
-1486,Movie,Consequences ,Turkey,2014,TV-MA,106 min,Dramas,
-1486,Movie,Consequences ,Turkey,2014,TV-MA,106 min, International Movies,
-1486,Movie,Consequences ,Turkey,2014,TV-MA,106 min, Thrillers,
 1487,TV Show,Conspiracy,United Kingdom,2015,TV-14,1 Season,British TV Shows,826
 1487,TV Show,Conspiracy,United Kingdom,2015,TV-14,1 Season, Docuseries,826
 1488,TV Show,Containment,United States,2016,TV-MA,1 Season,TV Dramas,840
@@ -3991,22 +3902,12 @@
 1562,Movie,Cycle,India,2018,TV-PG,96 min, International Movies,356
 1563,Movie,D.L. Hughley: Clear,United States,2014,TV-MA,59 min,Stand-Up Comedy,840
 1564,Movie,D.L. Hughley: Contrarian,United States,2018,TV-MA,58 min,Stand-Up Comedy,840
-1567,Movie,Düğün Dernek,Turkey,2013,TV-PG,102 min,Comedies,
-1567,Movie,Düğün Dernek,Turkey,2013,TV-PG,102 min, International Movies,
-1568,Movie,Dügün Dernek 2: Sünnet,Turkey,2015,TV-MA,107 min,Comedies,
-1568,Movie,Dügün Dernek 2: Sünnet,Turkey,2015,TV-MA,107 min, International Movies,
 1569,Movie,Da 5 Bloods,United States,2020,R,156 min,Action & Adventure,840
 1569,Movie,Da 5 Bloods,United States,2020,R,156 min, Dramas,840
 1570,Movie,Da Kath & Kim Code,Australia,2005,TV-PG,82 min,Movies,036
 1571,Movie,Daagdi Chaawl,India,2015,TV-14,118 min,Action & Adventure,356
 1571,Movie,Daagdi Chaawl,India,2015,TV-14,118 min, Dramas,356
 1571,Movie,Daagdi Chaawl,India,2015,TV-14,118 min, International Movies,356
-1572,Movie,Dabbe 5: Zehr-i Cin,Turkey,2014,TV-MA,133 min,Horror Movies,
-1572,Movie,Dabbe 5: Zehr-i Cin,Turkey,2014,TV-MA,133 min, International Movies,
-1573,Movie,Dabbe 6: The Return,Turkey,2015,TV-MA,153 min,Horror Movies,
-1573,Movie,Dabbe 6: The Return,Turkey,2015,TV-MA,153 min, International Movies,
-1574,Movie,Dabbe: The Possession,Turkey,2013,TV-MA,135 min,Horror Movies,
-1574,Movie,Dabbe: The Possession,Turkey,2013,TV-MA,135 min, International Movies,
 1575,Movie,Dad,United States,1989,PG,117 min,Dramas,840
 1576,Movie,Dad Wanted,Mexico,2020,TV-14,103 min,Children & Family Movies,484
 1576,Movie,Dad Wanted,Mexico,2020,TV-14,103 min, Comedies,484
@@ -4244,8 +4145,6 @@
 1675,Movie,Death to 2020,United States,2020,TV-MA,71 min,Comedies,840
 1676,Movie,Deathgrip,United Kingdom,2017,TV-MA,53 min,International Movies,826
 1676,Movie,Deathgrip,United Kingdom,2017,TV-MA,53 min, Sports Movies,826
-1677,Movie,Dedemin Fisi,Turkey,2016,TV-14,101 min,Comedies,
-1677,Movie,Dedemin Fisi,Turkey,2016,TV-14,101 min, International Movies,
 1678,Movie,Dedh Ishqiya,India,2014,TV-14,146 min,Comedies,356
 1678,Movie,Dedh Ishqiya,India,2014,TV-14,146 min, Dramas,356
 1678,Movie,Dedh Ishqiya,India,2014,TV-14,146 min, International Movies,356
@@ -4289,11 +4188,6 @@
 1691,TV Show,Delhi Crime,India,2019,TV-MA,1 Season,Crime TV Shows,356
 1691,TV Show,Delhi Crime,India,2019,TV-MA,1 Season, International TV Shows,356
 1691,TV Show,Delhi Crime,India,2019,TV-MA,1 Season, TV Dramas,356
-1692,Movie,Deliha,Turkey,2014,TV-14,102 min,Comedies,
-1692,Movie,Deliha,Turkey,2014,TV-14,102 min, International Movies,
-1692,Movie,Deliha,Turkey,2014,TV-14,102 min, Romantic Movies,
-1693,Movie,Deliha 2,Turkey,2018,TV-PG,102 min,Comedies,
-1693,Movie,Deliha 2,Turkey,2018,TV-PG,102 min, International Movies,
 1694,Movie,Delirium,United States,2018,R,96 min,Horror Movies,840
 1694,Movie,Delirium,United States,2018,R,96 min, Thrillers,840
 1695,TV Show,DeMarcus Family Rules,United States,2020,TV-14,1 Season,Reality TV,840
@@ -4673,8 +4567,6 @@
 1835,Movie,Doubles Cause Troubles,Hong Kong,1989,TV-14,94 min, International Movies,344
 1836,Movie,Doubt,United States,2008,PG-13,104 min,Dramas,840
 1836,Movie,Doubt,United States,2008,PG-13,104 min, Faith & Spirituality,840
-1837,Movie,Dovlatov,Russia,2018,PG-13,126 min,Dramas,
-1837,Movie,Dovlatov,Russia,2018,PG-13,126 min, International Movies,
 1837,Movie,Dovlatov,Poland,2018,PG-13,126 min,Dramas,616
 1837,Movie,Dovlatov,Poland,2018,PG-13,126 min, International Movies,616
 1837,Movie,Dovlatov,Serbia,2018,PG-13,126 min,Dramas,688
@@ -4931,8 +4823,6 @@
 1940,Movie,Ek Main Aur Ekk Tu,India,2012,TV-14,106 min,Comedies,356
 1940,Movie,Ek Main Aur Ekk Tu,India,2012,TV-14,106 min, International Movies,356
 1940,Movie,Ek Main Aur Ekk Tu,India,2012,TV-14,106 min, Romantic Movies,356
-1941,Movie,Ekşi Elmalar,Turkey,2016,TV-PG,109 min,Dramas,
-1941,Movie,Ekşi Elmalar,Turkey,2016,TV-PG,109 min, International Movies,
 1942,Movie,El último testigo,United States,2012,R,105 min,Action & Adventure,840
 1942,Movie,El último testigo,Canada,2012,R,105 min,Action & Adventure,124
 1942,Movie,El último testigo,Belgium,2012,R,105 min,Action & Adventure,056
@@ -5175,8 +5065,6 @@
 2031,Movie,Ethirmarai,India,2018,TV-14,91 min,International Movies,356
 2031,Movie,Ethirmarai,India,2018,TV-14,91 min, Music & Musicals,356
 2031,Movie,Ethirmarai,India,2018,TV-14,91 min, Thrillers,356
-2032,TV Show,Ethos,Turkey,2020,TV-MA,1 Season,International TV Shows,
-2032,TV Show,Ethos,Turkey,2020,TV-MA,1 Season, TV Dramas,
 2033,TV Show,Eugenie Nights,Egypt,2018,TV-14,1 Season,International TV Shows,818
 2033,TV Show,Eugenie Nights,Egypt,2018,TV-14,1 Season, Romantic TV Shows,818
 2033,TV Show,Eugenie Nights,Egypt,2018,TV-14,1 Season, TV Dramas,818
@@ -5297,16 +5185,6 @@
 2077,Movie,Eye For An Eye,United States,2019,TV-MA,108 min,Dramas,840
 2077,Movie,Eye For An Eye,United States,2019,TV-MA,108 min, International Movies,840
 2077,Movie,Eye For An Eye,United States,2019,TV-MA,108 min, Thrillers,840
-2078,Movie,Eyyvah Eyyvah,Turkey,2010,TV-MA,99 min,Comedies,
-2078,Movie,Eyyvah Eyyvah,Turkey,2010,TV-MA,99 min, International Movies,
-2079,Movie,Eyyvah Eyyvah 2,Turkey,2011,TV-PG,106 min,Comedies,
-2079,Movie,Eyyvah Eyyvah 2,Turkey,2011,TV-PG,106 min, International Movies,
-2079,Movie,Eyyvah Eyyvah 2,Turkey,2011,TV-PG,106 min, Romantic Movies,
-2080,Movie,Eyyvah Eyyvah 3,Turkey,2014,TV-PG,103 min,Comedies,
-2080,Movie,Eyyvah Eyyvah 3,Turkey,2014,TV-PG,103 min, International Movies,
-2081,TV Show,Ezel,Turkey,2009,TV-14,1 Season,Crime TV Shows,
-2081,TV Show,Ezel,Turkey,2009,TV-14,1 Season, International TV Shows,
-2081,TV Show,Ezel,Turkey,2009,TV-14,1 Season, TV Dramas,
 2083,TV Show,F is for Family,United States,2020,TV-MA,4 Seasons,TV Comedies,840
 2083,TV Show,F is for Family,France,2020,TV-MA,4 Seasons,TV Comedies,250
 2083,TV Show,F is for Family,Canada,2020,TV-MA,4 Seasons,TV Comedies,124
@@ -5382,9 +5260,6 @@
 2114,Movie,Faraar,Australia,2015,TV-14,146 min, International Movies,036
 2115,Movie,Farce,Egypt,2017,TV-MA,94 min,Comedies,818
 2115,Movie,Farce,Egypt,2017,TV-MA,94 min, International Movies,818
-2116,TV Show,Fartsa,Russia,2015,TV-14,1 Season,Crime TV Shows,
-2116,TV Show,Fartsa,Russia,2015,TV-14,1 Season, International TV Shows,
-2116,TV Show,Fartsa,Russia,2015,TV-14,1 Season, TV Dramas,
 2117,TV Show,Fary : Hexagone,France,2020,TV-MA,2 Seasons,International TV Shows,250
 2117,TV Show,Fary : Hexagone,France,2020,TV-MA,2 Seasons, Stand-Up Comedy & Talk Shows,250
 2117,TV Show,Fary : Hexagone,France,2020,TV-MA,2 Seasons, TV Comedies,250
@@ -5467,9 +5342,6 @@
 2157,Movie,Figaro Pho,United Kingdom,2008,TV-Y7,29 min,Children & Family Movies,826
 2157,Movie,Figaro Pho,United Kingdom,2008,TV-Y7,29 min, Comedies,826
 2159,Movie,Figures of Speech,United States,2016,TV-PG,92 min,Documentaries,840
-2160,TV Show,Filinta,Turkey,2015,TV-14,2 Seasons,Crime TV Shows,
-2160,TV Show,Filinta,Turkey,2015,TV-14,2 Seasons, International TV Shows,
-2160,TV Show,Filinta,Turkey,2015,TV-14,2 Seasons, TV Action & Adventure,
 2161,Movie,Filmworker,United States,2017,TV-MA,94 min,Documentaries,840
 2162,Movie,Filosofi Kopi The Movie,Indonesia,2015,TV-PG,118 min,Dramas,360
 2162,Movie,Filosofi Kopi The Movie,Indonesia,2015,TV-PG,118 min, International Movies,360
@@ -5643,9 +5515,6 @@
 2240,Movie,Forever Pure,Israel,2016,TV-MA,87 min,Documentaries,376
 2240,Movie,Forever Pure,Israel,2016,TV-MA,87 min, International Movies,376
 2240,Movie,Forever Pure,Israel,2016,TV-MA,87 min, Sports Movies,376
-2240,Movie,Forever Pure,Russia,2016,TV-MA,87 min,Documentaries,
-2240,Movie,Forever Pure,Russia,2016,TV-MA,87 min, International Movies,
-2240,Movie,Forever Pure,Russia,2016,TV-MA,87 min, Sports Movies,
 2241,TV Show,Forged in Fire,United States,2019,TV-14,1 Season,Reality TV,840
 2242,TV Show,Forget Me Not,United Kingdom,2011,TV-MA,1 Season,International TV Shows,826
 2242,TV Show,Forget Me Not,United Kingdom,2011,TV-MA,1 Season, TV Dramas,826
@@ -5889,17 +5758,8 @@
 2322,Movie,İstanbul Kırmızısı,Italy,2017,TV-MA,110 min,Dramas,380
 2322,Movie,İstanbul Kırmızısı,Italy,2017,TV-MA,110 min, Independent Movies,380
 2322,Movie,İstanbul Kırmızısı,Italy,2017,TV-MA,110 min, International Movies,380
-2322,Movie,İstanbul Kırmızısı,Turkey,2017,TV-MA,110 min,Dramas,
-2322,Movie,İstanbul Kırmızısı,Turkey,2017,TV-MA,110 min, Independent Movies,
-2322,Movie,İstanbul Kırmızısı,Turkey,2017,TV-MA,110 min, International Movies,
 2323,Movie,G-Force,United States,2009,PG,88 min,Children & Family Movies,840
 2323,Movie,G-Force,United States,2009,PG,88 min, Comedies,840
-2324,Movie,G.O.R.A,Turkey,2004,TV-MA,123 min,Action & Adventure,
-2324,Movie,G.O.R.A,Turkey,2004,TV-MA,123 min, Comedies,
-2324,Movie,G.O.R.A,Turkey,2004,TV-MA,123 min, International Movies,
-2325,Movie,Görümce,Turkey,2016,TV-MA,104 min,Comedies,
-2325,Movie,Görümce,Turkey,2016,TV-MA,104 min, International Movies,
-2325,Movie,Görümce,Turkey,2016,TV-MA,104 min, Music & Musicals,
 2326,Movie,Gabbar Is Back,India,2015,TV-14,128 min,Action & Adventure,356
 2326,Movie,Gabbar Is Back,India,2015,TV-14,128 min, Dramas,356
 2326,Movie,Gabbar Is Back,India,2015,TV-14,128 min, International Movies,356
@@ -5919,8 +5779,6 @@
 2334,Movie,Gaddar: the Traitor,India,2015,TV-14,126 min, Thrillers,356
 2335,Movie,Gaga: Five Foot Two,United States,2017,TV-MA,101 min,Documentaries,840
 2335,Movie,Gaga: Five Foot Two,United States,2017,TV-MA,101 min, Music & Musicals,840
-2336,Movie,Gagarin: First in Space,Russia,2013,TV-14,108 min,Dramas,
-2336,Movie,Gagarin: First in Space,Russia,2013,TV-14,108 min, International Movies,
 2337,TV Show,Galavant,United States,2016,TV-PG,2 Seasons,TV Action & Adventure,840
 2337,TV Show,Galavant,United States,2016,TV-PG,2 Seasons, TV Comedies,840
 2338,Movie,Galih dan Ratna,Indonesia,2017,TV-PG,111 min,Dramas,360
@@ -5936,9 +5794,6 @@
 2343,Movie,Game Over (Tamil Version),India,2019,TV-MA,98 min,Horror Movies,356
 2343,Movie,Game Over (Tamil Version),India,2019,TV-MA,98 min, International Movies,356
 2343,Movie,Game Over (Tamil Version),India,2019,TV-MA,98 min, Thrillers,356
-2343,Movie,Game Over (Tamil Version),Turkey,2019,TV-MA,98 min,Horror Movies,
-2343,Movie,Game Over (Tamil Version),Turkey,2019,TV-MA,98 min, International Movies,
-2343,Movie,Game Over (Tamil Version),Turkey,2019,TV-MA,98 min, Thrillers,
 2345,Movie,"Game Over, Man!",United States,2018,TV-MA,102 min,Action & Adventure,840
 2345,Movie,"Game Over, Man!",United States,2018,TV-MA,102 min, Comedies,840
 2346,TV Show,Game Winning Hit,Taiwan,2009,TV-MA,1 Season,International TV Shows,158
@@ -6253,16 +6108,10 @@
 2472,TV Show,Gomorrah,Germany,2016,TV-MA,2 Seasons, International TV Shows,276
 2472,TV Show,Gomorrah,Germany,2016,TV-MA,2 Seasons, TV Dramas,276
 2473,Movie,Gone are the Days,United States,2018,R,100 min,Independent Movies,840
-2474,TV Show,Gonul,Turkey,2015,TV-14,1 Season,International TV Shows,
-2474,TV Show,Gonul,Turkey,2015,TV-14,1 Season, TV Dramas,
-2474,TV Show,Gonul,Turkey,2015,TV-14,1 Season, TV Thrillers,
 2475,Movie,Good and Prosperous,Egypt,2017,TV-14,101 min,Comedies,818
 2475,Movie,Good and Prosperous,Egypt,2017,TV-14,101 min, International Movies,818
 2476,Movie,Good Burger,United States,1997,PG,96 min,Children & Family Movies,840
 2476,Movie,Good Burger,United States,1997,PG,96 min, Comedies,840
-2477,Movie,Good Game: The Beginning,Turkey,2018,TV-14,115 min,Dramas,
-2477,Movie,Good Game: The Beginning,Turkey,2018,TV-14,115 min, International Movies,
-2477,Movie,Good Game: The Beginning,Turkey,2018,TV-14,115 min, Sports Movies,
 2478,TV Show,Good Girls,United States,2019,TV-MA,2 Seasons,Crime TV Shows,840
 2478,TV Show,Good Girls,United States,2019,TV-MA,2 Seasons, TV Comedies,840
 2478,TV Show,Good Girls,United States,2019,TV-MA,2 Seasons, TV Dramas,840
@@ -6495,10 +6344,6 @@
 2563,TV Show,H,France,2002,TV-MA,4 Seasons, TV Comedies,250
 2564,Movie,Héroes,Chile,2015,TV-MA,91 min,Comedies,152
 2564,Movie,Héroes,Chile,2015,TV-MA,91 min, International Movies,152
-2565,Movie,Hükümet Kadin,Turkey,2013,TV-MA,100 min,Comedies,
-2565,Movie,Hükümet Kadin,Turkey,2013,TV-MA,100 min, International Movies,
-2566,Movie,Hükümet Kadin 2,Turkey,2013,TV-14,101 min,Comedies,
-2566,Movie,Hükümet Kadin 2,Turkey,2013,TV-14,101 min, International Movies,
 2567,TV Show,H2O: Just Add Water,Australia,2009,TV-PG,3 Seasons,Kids' TV,036
 2567,TV Show,H2O: Just Add Water,Australia,2009,TV-PG,3 Seasons, TV Dramas,036
 2568,TV Show,H2O: Mermaid Adventures,Germany,2015,TV-Y7,2 Seasons,Kids' TV,276
@@ -6520,9 +6365,6 @@
 2573,TV Show,Hache,Spain,2019,TV-MA,1 Season,Crime TV Shows,724
 2573,TV Show,Hache,Spain,2019,TV-MA,1 Season, International TV Shows,724
 2573,TV Show,Hache,Spain,2019,TV-MA,1 Season, Spanish-Language TV Shows,724
-2574,Movie,Hadi İnşallah,Turkey,2014,TV-14,95 min,Comedies,
-2574,Movie,Hadi İnşallah,Turkey,2014,TV-14,95 min, International Movies,
-2574,Movie,Hadi İnşallah,Turkey,2014,TV-14,95 min, Romantic Movies,
 2575,Movie,Haider,India,2014,TV-MA,154 min,Dramas,356
 2575,Movie,Haider,India,2014,TV-MA,154 min, International Movies,356
 2575,Movie,Haider,India,2014,TV-MA,154 min, Romantic Movies,356
@@ -6650,9 +6492,6 @@
 2622,Movie,Hard Lessons,United States,1986,TV-14,94 min,Dramas,840
 2623,Movie,Hard Tide,United Kingdom,2015,TV-MA,79 min,Dramas,826
 2623,Movie,Hard Tide,United Kingdom,2015,TV-MA,79 min, Independent Movies,826
-2624,Movie,Hardcore Henry,Russia,2015,R,96 min,Action & Adventure,
-2624,Movie,Hardcore Henry,Russia,2015,R,96 min, International Movies,
-2624,Movie,Hardcore Henry,Russia,2015,R,96 min, Sci-Fi & Fantasy,
 2624,Movie,Hardcore Henry,United States,2015,R,96 min,Action & Adventure,840
 2624,Movie,Hardcore Henry,United States,2015,R,96 min, International Movies,840
 2624,Movie,Hardcore Henry,United States,2015,R,96 min, Sci-Fi & Fantasy,840
@@ -6738,9 +6577,6 @@
 2660,Movie,Hawaizaada,India,2015,TV-14,129 min,Dramas,356
 2660,Movie,Hawaizaada,India,2015,TV-14,129 min, International Movies,356
 2660,Movie,Hawaizaada,India,2015,TV-14,129 min, Romantic Movies,356
-2661,Movie,Hayat Öpücügü,Turkey,2015,TV-14,98 min,Comedies,
-2661,Movie,Hayat Öpücügü,Turkey,2015,TV-14,98 min, Dramas,
-2661,Movie,Hayat Öpücügü,Turkey,2015,TV-14,98 min, International Movies,
 2662,Movie,Haywire,Ireland,2011,R,93 min,Action & Adventure,372
 2662,Movie,Haywire,United States,2011,R,93 min,Action & Adventure,840
 2663,Movie,Hazaaron Khwaishein Aisi,India,2003,TV-MA,111 min,Dramas,356
@@ -6984,8 +6820,6 @@
 2755,Movie,Hit & Run,United States,2012,R,100 min, Romantic Movies,840
 2756,Movie,Hitch,United States,2005,PG-13,118 min,Comedies,840
 2756,Movie,Hitch,United States,2005,PG-13,118 min, Romantic Movies,840
-2757,Movie,Hitler - A Career,West Germany,1977,TV-MA,150 min,Documentaries,
-2757,Movie,Hitler - A Career,West Germany,1977,TV-MA,150 min, International Movies,
 2758,TV Show,Hitler's Circle of Evil,United Kingdom,2017,TV-14,1 Season,British TV Shows,826
 2758,TV Show,Hitler's Circle of Evil,United Kingdom,2017,TV-14,1 Season, Docuseries,826
 2758,TV Show,Hitler's Circle of Evil,United Kingdom,2017,TV-14,1 Season, International TV Shows,826
@@ -7002,9 +6836,6 @@
 2764,TV Show,Hoff the Record,United Kingdom,2016,TV-MA,2 Seasons,British TV Shows,826
 2764,TV Show,Hoff the Record,United Kingdom,2016,TV-MA,2 Seasons, TV Comedies,826
 2765,TV Show,Hogie the Globehopper,United States,2016,TV-Y,1 Season,Kids' TV,840
-2766,Movie,Hokkabaz,Turkey,2006,TV-MA,118 min,Comedies,
-2766,Movie,Hokkabaz,Turkey,2006,TV-MA,118 min, Dramas,
-2766,Movie,Hokkabaz,Turkey,2006,TV-MA,118 min, International Movies,
 2767,Movie,Hold the Dark,United States,2018,TV-MA,126 min,Action & Adventure,840
 2767,Movie,Hold the Dark,United States,2018,TV-MA,126 min, Dramas,840
 2768,Movie,Holding the Man,Australia,2015,TV-MA,128 min,Dramas,036
@@ -7133,9 +6964,6 @@
 2822,Movie,Hot Property,United Kingdom,2016,TV-MA,82 min, Independent Movies,826
 2823,Movie,Hot Rod,United States,2007,PG-13,88 min,Comedies,840
 2823,Movie,Hot Rod,United States,2007,PG-13,88 min, Sports Movies,840
-2824,Movie,Hot Sweet Sour,Turkey,2017,TV-14,102 min,Dramas,
-2824,Movie,Hot Sweet Sour,Turkey,2017,TV-14,102 min, International Movies,
-2824,Movie,Hot Sweet Sour,Turkey,2017,TV-14,102 min, Romantic Movies,
 2825,TV Show,Hotel Beau Séjour,Belgium,2017,TV-14,1 Season,Crime TV Shows,056
 2825,TV Show,Hotel Beau Séjour,Belgium,2017,TV-14,1 Season, International TV Shows,056
 2825,TV Show,Hotel Beau Séjour,Belgium,2017,TV-14,1 Season, TV Dramas,056
@@ -7490,9 +7318,6 @@
 2954,TV Show,Immortal Classic,South Korea,2012,TV-14,1 Season,International TV Shows,410
 2954,TV Show,Immortal Classic,South Korea,2012,TV-14,1 Season, Korean TV Shows,410
 2954,TV Show,Immortal Classic,South Korea,2012,TV-14,1 Season, TV Dramas,410
-2955,TV Show,Immortals,Turkey,2018,TV-MA,1 Season,International TV Shows,
-2955,TV Show,Immortals,Turkey,2018,TV-MA,1 Season, TV Dramas,
-2955,TV Show,Immortals,Turkey,2018,TV-MA,1 Season, TV Horror,
 2956,Movie,Imperfect,Singapore,2012,TV-MA,95 min,Action & Adventure,702
 2956,Movie,Imperfect,Singapore,2012,TV-MA,95 min, International Movies,702
 2957,Movie,Imperial Dreams,United States,2014,TV-MA,86 min,Dramas,840
@@ -7566,9 +7391,6 @@
 2979,Movie,Inception,United Kingdom,2010,PG-13,148 min,Action & Adventure,826
 2979,Movie,Inception,United Kingdom,2010,PG-13,148 min, Sci-Fi & Fantasy,826
 2979,Movie,Inception,United Kingdom,2010,PG-13,148 min, Thrillers,826
-2980,Movie,Incir Receli 2,Turkey,2014,TV-14,103 min,Dramas,
-2980,Movie,Incir Receli 2,Turkey,2014,TV-14,103 min, International Movies,
-2980,Movie,Incir Receli 2,Turkey,2014,TV-14,103 min, Romantic Movies,
 2981,Movie,Incoming,Serbia,2019,TV-MA,89 min,Action & Adventure,688
 2981,Movie,Incoming,Serbia,2019,TV-MA,89 min, Sci-Fi & Fantasy,688
 2981,Movie,Incoming,United States,2019,TV-MA,89 min,Action & Adventure,840
@@ -7648,9 +7470,6 @@
 3006,Movie,Inkheart,United States,2008,PG,106 min, Sci-Fi & Fantasy,840
 3007,TV Show,Inmates,India,2017,TV-MA,1 Season,International TV Shows,356
 3007,TV Show,Inmates,India,2017,TV-MA,1 Season, TV Comedies,356
-3008,TV Show,Innocent,Turkey,2017,TV-MA,1 Season,Crime TV Shows,
-3008,TV Show,Innocent,Turkey,2017,TV-MA,1 Season, International TV Shows,
-3008,TV Show,Innocent,Turkey,2017,TV-MA,1 Season, TV Dramas,
 3009,Movie,Insan,India,2005,TV-14,141 min,Action & Adventure,356
 3009,Movie,Insan,India,2005,TV-14,141 min, Dramas,356
 3009,Movie,Insan,India,2005,TV-14,141 min, International Movies,356
@@ -7706,9 +7525,6 @@
 3027,Movie,Interrogation,India,2015,TV-MA,116 min,Dramas,356
 3027,Movie,Interrogation,India,2015,TV-MA,116 min, International Movies,356
 3027,Movie,Interrogation,India,2015,TV-MA,116 min, Thrillers,356
-3028,TV Show,Intersection,Turkey,2016,TV-MA,3 Seasons,International TV Shows,
-3028,TV Show,Intersection,Turkey,2016,TV-MA,3 Seasons, Romantic TV Shows,
-3028,TV Show,Intersection,Turkey,2016,TV-MA,3 Seasons, TV Dramas,
 3029,Movie,Interview with a Serial Killer,United States,2008,TV-MA,45 min,Documentaries,840
 3030,TV Show,Into the Badlands,United States,2018,TV-MA,3 Seasons,TV Action & Adventure,840
 3031,Movie,Into the Forest,Canada,2015,R,102 min,Dramas,124
@@ -8086,7 +7902,6 @@
 3181,Movie,Jindua,India,2017,TV-14,135 min, Romantic Movies,356
 3182,Movie,Jingle Jangle: A Christmas Journey,United States,2020,PG,124 min,Children & Family Movies,840
 3182,Movie,Jingle Jangle: A Christmas Journey,United States,2020,PG,124 min, Music & Musicals,840
-3183,TV Show,JingleKids,Russia,2017,TV-Y7,1 Season,Kids' TV,
 3184,TV Show,Jinn,Jordan,2019,TV-MA,1 Season,International TV Shows,400
 3184,TV Show,Jinn,Jordan,2019,TV-MA,1 Season, TV Dramas,400
 3184,TV Show,Jinn,Jordan,2019,TV-MA,1 Season, TV Mysteries,400
@@ -8259,11 +8074,6 @@
 3267,TV Show,K.O.3an Guo,Taiwan,2009,TV-14,1 Season,International TV Shows,158
 3267,TV Show,K.O.3an Guo,Taiwan,2009,TV-14,1 Season, TV Comedies,158
 3267,TV Show,K.O.3an Guo,Taiwan,2009,TV-14,1 Season, TV Sci-Fi & Fantasy,158
-3268,Movie,Küçük Esnaf,Turkey,2016,TV-MA,100 min,Comedies,
-3268,Movie,Küçük Esnaf,Turkey,2016,TV-MA,100 min, International Movies,
-3269,TV Show,Kaçak,Turkey,2013,TV-14,1 Season,Crime TV Shows,
-3269,TV Show,Kaçak,Turkey,2013,TV-14,1 Season, International TV Shows,
-3269,TV Show,Kaçak,Turkey,2013,TV-14,1 Season, TV Action & Adventure,
 3270,Movie,Kaabil,India,2017,TV-14,139 min,Dramas,356
 3270,Movie,Kaabil,India,2017,TV-14,139 min, International Movies,356
 3271,Movie,Kaagar,India,2019,TV-MA,130 min,Dramas,356
@@ -8364,8 +8174,6 @@
 3304,Movie,Kappela,India,2020,TV-14,112 min,Dramas,356
 3304,Movie,Kappela,India,2020,TV-14,112 min, International Movies,356
 3304,Movie,Kappela,India,2020,TV-14,112 min, Romantic Movies,356
-3305,Movie,Kara Bela,Turkey,2015,TV-14,101 min,Comedies,
-3305,Movie,Kara Bela,Turkey,2015,TV-14,101 min, International Movies,
 3306,Movie,Kardec,Brazil,2019,TV-14,110 min,Dramas,076
 3306,Movie,Kardec,Brazil,2019,TV-14,110 min, Faith & Spirituality,076
 3306,Movie,Kardec,Brazil,2019,TV-14,110 min, International Movies,076
@@ -8480,7 +8288,6 @@
 3369,Movie,Kid Kulafu,Philippines,2015,TV-14,108 min,Dramas,608
 3369,Movie,Kid Kulafu,Philippines,2015,TV-14,108 min, International Movies,608
 3369,Movie,Kid Kulafu,Philippines,2015,TV-14,108 min, Sports Movies,608
-3370,TV Show,Kid-E-Cats,Russia,2016,TV-Y,1 Season,Kids' TV,
 3371,Movie,Kidnapping Mr. Heineken,Netherlands,2015,R,95 min,Action & Adventure,528
 3371,Movie,Kidnapping Mr. Heineken,Netherlands,2015,R,95 min, Dramas,528
 3371,Movie,Kidnapping Mr. Heineken,Netherlands,2015,R,95 min, International Movies,528
@@ -8496,8 +8303,6 @@
 3372,Movie,Kidnapping Stella,Germany,2019,TV-MA,90 min,Dramas,276
 3372,Movie,Kidnapping Stella,Germany,2019,TV-MA,90 min, International Movies,276
 3372,Movie,Kidnapping Stella,Germany,2019,TV-MA,90 min, Thrillers,276
-3373,Movie,Kids on the Block,Turkey,2019,TV-PG,102 min,Children & Family Movies,
-3373,Movie,Kids on the Block,Turkey,2019,TV-PG,102 min, Comedies,
 3375,Movie,Kill Bill: Vol. 1,United States,2003,R,111 min,Action & Adventure,840
 3375,Movie,Kill Bill: Vol. 1,Japan,2003,R,111 min,Action & Adventure,392
 3376,Movie,Kill Bill: Vol. 2,United States,2004,R,137 min,Action & Adventure,840
@@ -8508,9 +8313,6 @@
 3378,Movie,Kill Hitler! The Luck of the Devil,France,2015,TV-14,53 min, International Movies,250
 3379,TV Show,Kill la Kill,Japan,2014,TV-MA,1 Season,Anime Series,392
 3379,TV Show,Kill la Kill,Japan,2014,TV-MA,1 Season, International TV Shows,392
-3380,Movie,Kill Me If You Dare,Turkey,2019,TV-14,100 min,Comedies,
-3380,Movie,Kill Me If You Dare,Turkey,2019,TV-14,100 min, International Movies,
-3380,Movie,Kill Me If You Dare,Turkey,2019,TV-14,100 min, Romantic Movies,
 3381,Movie,Kill Ratio,United States,2016,TV-MA,87 min,Action & Adventure,840
 3382,Movie,Kill the Irishman,United States,2011,R,106 min,Action & Adventure,840
 3382,Movie,Kill the Irishman,United States,2011,R,106 min, Dramas,840
@@ -8629,12 +8431,6 @@
 3427,TV Show,KO One,Taiwan,2005,TV-MA,1 Season,International TV Shows,158
 3427,TV Show,KO One,Taiwan,2005,TV-MA,1 Season, TV Action & Adventure,158
 3427,TV Show,KO One,Taiwan,2005,TV-MA,1 Season, TV Comedies,158
-3429,Movie,Kocan Kadar Konus,Turkey,2015,TV-14,104 min,Comedies,
-3429,Movie,Kocan Kadar Konus,Turkey,2015,TV-14,104 min, International Movies,
-3429,Movie,Kocan Kadar Konus,Turkey,2015,TV-14,104 min, Romantic Movies,
-3430,Movie,Kocan Kadar Konus 2: Dirilis,Turkey,2016,TV-14,104 min,Comedies,
-3430,Movie,Kocan Kadar Konus 2: Dirilis,Turkey,2016,TV-14,104 min, International Movies,
-3430,Movie,Kocan Kadar Konus 2: Dirilis,Turkey,2016,TV-14,104 min, Romantic Movies,
 3431,Movie,Kodachrome,Canada,2018,TV-MA,105 min,Comedies,124
 3431,Movie,Kodachrome,Canada,2018,TV-MA,105 min, Dramas,124
 3431,Movie,Kodachrome,United States,2018,TV-MA,105 min,Comedies,840
@@ -8739,12 +8535,6 @@
 3473,TV Show,Kuromukuro,Japan,2016,TV-14,2 Seasons, International TV Shows,392
 3474,Movie,Kurt & Courtney,United Kingdom,1998,R,95 min,Documentaries,826
 3474,Movie,Kurt & Courtney,United Kingdom,1998,R,95 min, Music & Musicals,826
-3475,TV Show,Kurt Seyit & Sura,Turkey,2014,TV-14,1 Season,International TV Shows,
-3475,TV Show,Kurt Seyit & Sura,Turkey,2014,TV-14,1 Season, Romantic TV Shows,
-3475,TV Show,Kurt Seyit & Sura,Turkey,2014,TV-14,1 Season, TV Dramas,
-3476,Movie,Kurtulus Son Durak,Turkey,2012,TV-MA,100 min,Comedies,
-3476,Movie,Kurtulus Son Durak,Turkey,2012,TV-MA,100 min, Dramas,
-3476,Movie,Kurtulus Son Durak,Turkey,2012,TV-MA,100 min, International Movies,
 3477,Movie,Kya Kehna,India,2000,TV-PG,149 min,Dramas,356
 3477,Movie,Kya Kehna,India,2000,TV-PG,149 min, International Movies,356
 3477,Movie,Kya Kehna,India,2000,TV-PG,149 min, Romantic Movies,356
@@ -8892,9 +8682,6 @@
 3530,Movie,Larceny,United States,2017,TV-14,87 min,Action & Adventure,840
 3530,Movie,Larceny,Mexico,2017,TV-14,87 min,Action & Adventure,484
 3532,Movie,Larry the Cable Guy: Remain Seated,United States,2020,TV-14,68 min,Stand-Up Comedy,840
-3533,TV Show,Larva,Russia,2015,TV-Y7,3 Seasons,Kids' TV,
-3533,TV Show,Larva,Russia,2015,TV-Y7,3 Seasons, Korean TV Shows,
-3533,TV Show,Larva,Russia,2015,TV-Y7,3 Seasons, TV Comedies,
 3535,TV Show,Las muñecas de la mafia,Colombia,2018,TV-MA,2 Seasons,Crime TV Shows,170
 3535,TV Show,Las muñecas de la mafia,Colombia,2018,TV-MA,2 Seasons, International TV Shows,170
 3535,TV Show,Las muñecas de la mafia,Colombia,2018,TV-MA,2 Seasons, Spanish-Language TV Shows,170
@@ -9079,11 +8866,6 @@
 3611,TV Show,Let’s Eat,South Korea,2013,TV-PG,1 Season, Romantic TV Shows,410
 3612,TV Show,Levius,Japan,2019,TV-14,1 Season,Anime Series,392
 3612,TV Show,Levius,Japan,2019,TV-14,1 Season, International TV Shows,392
-3613,TV Show,Leyla and Mecnun,Turkey,2014,TV-MA,3 Seasons,International TV Shows,
-3613,TV Show,Leyla and Mecnun,Turkey,2014,TV-MA,3 Seasons, Romantic TV Shows,
-3613,TV Show,Leyla and Mecnun,Turkey,2014,TV-MA,3 Seasons, TV Comedies,
-3614,Movie,Leyla Everlasting,Turkey,2020,TV-MA,113 min,Comedies,
-3614,Movie,Leyla Everlasting,Turkey,2020,TV-MA,113 min, International Movies,
 3615,Movie,Lez Bomb,United States,2018,TV-14,90 min,Comedies,840
 3615,Movie,Lez Bomb,United States,2018,TV-14,90 min, LGBTQ Movies,840
 3616,Movie,"Liar, Liar, Vampire",United States,2015,TV-PG,68 min,Children & Family Movies,840
@@ -9271,8 +9053,6 @@
 3697,TV Show,Locke & Key,United States,2020,TV-14,1 Season,TV Action & Adventure,840
 3697,TV Show,Locke & Key,United States,2020,TV-14,1 Season, TV Dramas,840
 3697,TV Show,Locke & Key,United States,2020,TV-14,1 Season, TV Mysteries,840
-3698,Movie,Locked on You,Turkey,2018,TV-14,105 min,Comedies,
-3698,Movie,Locked on You,Turkey,2018,TV-14,105 min, International Movies,
 3699,TV Show,Locked Up,Spain,2020,TV-MA,5 Seasons,Crime TV Shows,724
 3699,TV Show,Locked Up,Spain,2020,TV-MA,5 Seasons, International TV Shows,724
 3699,TV Show,Locked Up,Spain,2020,TV-MA,5 Seasons, Spanish-Language TV Shows,724
@@ -9285,9 +9065,6 @@
 3701,Movie,Loco Love,Mexico,2017,TV-MA,103 min,Dramas,484
 3701,Movie,Loco Love,Mexico,2017,TV-MA,103 min, Independent Movies,484
 3701,Movie,Loco Love,Mexico,2017,TV-MA,103 min, International Movies,484
-3702,TV Show,Locust,Russia,2014,TV-MA,1 Season,Crime TV Shows,
-3702,TV Show,Locust,Russia,2014,TV-MA,1 Season, International TV Shows,
-3702,TV Show,Locust,Russia,2014,TV-MA,1 Season, Romantic TV Shows,
 3703,Movie,Loev,India,2015,TV-MA,89 min,Dramas,356
 3703,Movie,Loev,India,2015,TV-MA,89 min, Independent Movies,356
 3703,Movie,Loev,India,2015,TV-MA,89 min, International Movies,356
@@ -9373,9 +9150,6 @@
 3741,TV Show,Love & Anarchy,Sweden,2020,TV-MA,1 Season,International TV Shows,752
 3741,TV Show,Love & Anarchy,Sweden,2020,TV-MA,1 Season, Romantic TV Shows,752
 3741,TV Show,Love & Anarchy,Sweden,2020,TV-MA,1 Season, TV Comedies,752
-3742,TV Show,Love 101,Turkey,2020,TV-MA,1 Season,International TV Shows,
-3742,TV Show,Love 101,Turkey,2020,TV-MA,1 Season, TV Dramas,
-3742,TV Show,Love 101,Turkey,2020,TV-MA,1 Season, Teen TV Shows,
 3743,Movie,Love Aaj Kal,India,2020,TV-MA,140 min,Dramas,356
 3743,Movie,Love Aaj Kal,India,2020,TV-MA,140 min, International Movies,356
 3743,Movie,Love Aaj Kal,India,2020,TV-MA,140 min, Romantic Movies,356
@@ -9442,9 +9216,6 @@
 3764,Movie,Love Like the Falling Rain,Indonesia,2020,TV-14,87 min,Dramas,360
 3764,Movie,Love Like the Falling Rain,Indonesia,2020,TV-14,87 min, International Movies,360
 3764,Movie,Love Like the Falling Rain,Indonesia,2020,TV-14,87 min, Romantic Movies,360
-3765,TV Show,Love Me As I Am,Turkey,2015,TV-PG,3 Seasons,International TV Shows,
-3765,TV Show,Love Me As I Am,Turkey,2015,TV-PG,3 Seasons, Romantic TV Shows,
-3765,TV Show,Love Me As I Am,Turkey,2015,TV-PG,3 Seasons, TV Comedies,
 3766,TV Show,Love Me or Leave Me,Taiwan,2012,TV-14,1 Season,International TV Shows,158
 3766,TV Show,Love Me or Leave Me,Taiwan,2012,TV-14,1 Season, Romantic TV Shows,158
 3766,TV Show,Love Me or Leave Me,Taiwan,2012,TV-14,1 Season, TV Comedies,158
@@ -9510,9 +9281,6 @@
 3786,Movie,"Love, Rosie",United Kingdom,2014,R,103 min,Comedies,826
 3786,Movie,"Love, Rosie",United Kingdom,2014,R,103 min, International Movies,826
 3786,Movie,"Love, Rosie",United Kingdom,2014,R,103 min, Romantic Movies,826
-3787,Movie,"Love, Surreal and Odd",Turkey,2017,TV-14,95 min,Comedies,
-3787,Movie,"Love, Surreal and Odd",Turkey,2017,TV-14,95 min, International Movies,
-3787,Movie,"Love, Surreal and Odd",Turkey,2017,TV-14,95 min, Romantic Movies,
 3788,Movie,Love.com,Brazil,2017,TV-MA,92 min,Comedies,076
 3788,Movie,Love.com,Brazil,2017,TV-MA,92 min, International Movies,076
 3788,Movie,Love.com,Brazil,2017,TV-MA,92 min, Romantic Movies,076
@@ -9637,7 +9405,6 @@
 3834,Movie,Macchli Jal Ki Rani Hai,India,2014,TV-MA,118 min,Horror Movies,356
 3834,Movie,Macchli Jal Ki Rani Hai,India,2014,TV-MA,118 min, International Movies,356
 3835,Movie,Machete Kills,United States,2013,R,108 min,Action & Adventure,840
-3835,Movie,Machete Kills,Russia,2013,R,108 min,Action & Adventure,
 3836,Movie,Macho,Mexico,2016,TV-MA,101 min,Comedies,484
 3836,Movie,Macho,Mexico,2016,TV-MA,101 min, International Movies,484
 3836,Movie,Macho,Mexico,2016,TV-MA,101 min, LGBTQ Movies,484
@@ -9719,9 +9486,6 @@
 3867,TV Show,Mahi Way,India,2010,TV-14,1 Season, TV Comedies,356
 3868,Movie,Mahjong Heroes,Hong Kong,1981,TV-PG,92 min,Comedies,344
 3868,Movie,Mahjong Heroes,Hong Kong,1981,TV-PG,92 min, International Movies,344
-3869,TV Show,Mahmut & Meryem,Turkey,2013,TV-14,1 Season,International TV Shows,
-3869,TV Show,Mahmut & Meryem,Turkey,2013,TV-14,1 Season, Romantic TV Shows,
-3869,TV Show,Mahmut & Meryem,Turkey,2013,TV-14,1 Season, TV Dramas,
 3869,TV Show,Mahmut & Meryem,Azerbaijan,2013,TV-14,1 Season,International TV Shows,031
 3869,TV Show,Mahmut & Meryem,Azerbaijan,2013,TV-14,1 Season, Romantic TV Shows,031
 3869,TV Show,Mahmut & Meryem,Azerbaijan,2013,TV-14,1 Season, TV Dramas,031
@@ -9981,9 +9745,7 @@
 3977,TV Show,Masameer Classics,Saudi Arabia,2013,TV-14,4 Seasons,International TV Shows,682
 3977,TV Show,Masameer Classics,Saudi Arabia,2013,TV-14,4 Seasons, TV Comedies,682
 3978,Movie,Mascots,United States,2016,TV-MA,95 min,Comedies,840
-3979,TV Show,Masha and the Bear,Russia,2019,TV-Y,4 Seasons,Kids' TV,
 3980,TV Show,Masha's Spooky Stories,United States,2012,TV-Y,1 Season,Kids' TV,840
-3980,TV Show,Masha's Spooky Stories,Russia,2012,TV-Y,1 Season,Kids' TV,
 3982,Movie,Maska,India,2020,TV-MA,112 min,Comedies,356
 3982,Movie,Maska,India,2020,TV-MA,112 min, Dramas,356
 3982,Movie,Maska,India,2020,TV-MA,112 min, International Movies,356
@@ -10067,9 +9829,6 @@
 4014,Movie,Medium,Poland,1985,TV-MA,90 min,Horror Movies,616
 4014,Movie,Medium,Poland,1985,TV-MA,90 min, International Movies,616
 4014,Movie,Medium,Poland,1985,TV-MA,90 min, Thrillers,616
-4014,Movie,Medium,West Germany,1985,TV-MA,90 min,Horror Movies,
-4014,Movie,Medium,West Germany,1985,TV-MA,90 min, International Movies,
-4014,Movie,Medium,West Germany,1985,TV-MA,90 min, Thrillers,
 4015,TV Show,Meet the Adebanjos,United Kingdom,2016,TV-PG,3 Seasons,British TV Shows,826
 4015,TV Show,Meet the Adebanjos,United Kingdom,2016,TV-PG,3 Seasons, International TV Shows,826
 4015,TV Show,Meet the Adebanjos,United Kingdom,2016,TV-PG,3 Seasons, TV Comedies,826
@@ -10325,8 +10084,6 @@
 4119,Movie,Miracle,United States,2004,PG,136 min,Children & Family Movies,840
 4119,Movie,Miracle,United States,2004,PG,136 min, Dramas,840
 4119,Movie,Miracle,United States,2004,PG,136 min, Sports Movies,840
-4120,Movie,Miracle in Cell No. 7,Turkey,2019,TV-14,132 min,Dramas,
-4120,Movie,Miracle in Cell No. 7,Turkey,2019,TV-14,132 min, International Movies,
 4121,TV Show,Miraculous: Tales of Ladybug & Cat Noir,France,2019,TV-Y7,5 Seasons,Kids' TV,250
 4121,TV Show,Miraculous: Tales of Ladybug & Cat Noir,France,2019,TV-Y7,5 Seasons, TV Action & Adventure,250
 4121,TV Show,Miraculous: Tales of Ladybug & Cat Noir,South Korea,2019,TV-Y7,5 Seasons,Kids' TV,410
@@ -10468,9 +10225,6 @@
 4176,Movie,Money Heist: The Phenomenon,Spain,2020,TV-MA,57 min, International Movies,724
 4177,Movie,Money Talks,United States,1997,R,96 min,Action & Adventure,840
 4177,Movie,Money Talks,United States,1997,R,96 min, Comedies,840
-4178,Movie,Money Trap,Turkey,2019,TV-MA,122 min,Comedies,
-4178,Movie,Money Trap,Turkey,2019,TV-MA,122 min, Dramas,
-4178,Movie,Money Trap,Turkey,2019,TV-MA,122 min, International Movies,
 4180,TV Show,Monkey Planet,United Kingdom,2014,TV-PG,1 Season,British TV Shows,826
 4180,TV Show,Monkey Planet,United Kingdom,2014,TV-PG,1 Season, Docuseries,826
 4180,TV Show,Monkey Planet,United Kingdom,2014,TV-PG,1 Season, Science & Nature TV,826
@@ -10534,8 +10288,6 @@
 4215,TV Show,Monty Python's Almost the Truth,United Kingdom,2009,TV-MA,1 Season, Docuseries,826
 4216,TV Show,Monty Python's Fliegender Zirkus,United Kingdom,1972,TV-MA,1 Season,International TV Shows,826
 4216,TV Show,Monty Python's Fliegender Zirkus,United Kingdom,1972,TV-MA,1 Season, TV Comedies,826
-4216,TV Show,Monty Python's Fliegender Zirkus,West Germany,1972,TV-MA,1 Season,International TV Shows,
-4216,TV Show,Monty Python's Fliegender Zirkus,West Germany,1972,TV-MA,1 Season, TV Comedies,
 4217,TV Show,Monty Python's Flying Circus,United Kingdom,1974,TV-14,4 Seasons,British TV Shows,826
 4217,TV Show,Monty Python's Flying Circus,United Kingdom,1974,TV-14,4 Seasons, Classic & Cult TV,826
 4217,TV Show,Monty Python's Flying Circus,United Kingdom,1974,TV-14,4 Seasons, International TV Shows,826
@@ -10685,8 +10437,6 @@
 4266,Movie,Much Loved,Morocco,2015,TV-MA,104 min, International Movies,504
 4267,Movie,Mucho Mucho Amor: The Legend of Walter Mercado,United States,2020,TV-14,96 min,Documentaries,840
 4267,Movie,Mucho Mucho Amor: The Legend of Walter Mercado,United States,2020,TV-14,96 min, LGBTQ Movies,840
-4268,Movie,Mucize,Turkey,2015,TV-14,136 min,Dramas,
-4268,Movie,Mucize,Turkey,2015,TV-14,136 min, International Movies,
 4269,Movie,Mud,United States,2012,PG-13,131 min,Dramas,840
 4269,Movie,Mud,United States,2012,PG-13,131 min, Independent Movies,840
 4270,Movie,Mudbound,United States,2017,R,135 min,Dramas,840
@@ -10896,8 +10646,6 @@
 4355,Movie,My Sister's Keeper,United States,2009,PG-13,109 min,Dramas,840
 4356,Movie,My Sleeping Lover,Egypt,2008,TV-PG,93 min,Comedies,818
 4356,Movie,My Sleeping Lover,Egypt,2008,TV-PG,93 min, International Movies,818
-4357,Movie,My Step Dad: The Hippie,Turkey,2018,TV-MA,100 min,Comedies,
-4357,Movie,My Step Dad: The Hippie,Turkey,2018,TV-MA,100 min, International Movies,
 4357,Movie,My Step Dad: The Hippie,South Korea,2018,TV-MA,100 min,Comedies,410
 4357,Movie,My Step Dad: The Hippie,South Korea,2018,TV-MA,100 min, International Movies,410
 4358,Movie,My Stupid Boss,Indonesia,2016,TV-G,107 min,Comedies,360
@@ -10910,8 +10658,6 @@
 4361,TV Show,My Tattoo Addiction,United Kingdom,2013,TV-MA,1 Season,British TV Shows,826
 4361,TV Show,My Tattoo Addiction,United Kingdom,2013,TV-MA,1 Season, Docuseries,826
 4362,Movie,"My Teacher, My Obsession",United States,2018,TV-14,86 min,Thrillers,840
-4363,Movie,My Travel Buddy,Turkey,2017,TV-MA,111 min,Comedies,
-4363,Movie,My Travel Buddy,Turkey,2017,TV-MA,111 min, International Movies,
 4364,Movie,My True Friend,Thailand,2012,TV-MA,108 min,Action & Adventure,764
 4364,Movie,My True Friend,Thailand,2012,TV-MA,108 min, Dramas,764
 4364,Movie,My True Friend,Thailand,2012,TV-MA,108 min, International Movies,764
@@ -11134,8 +10880,6 @@
 4446,Movie,Neruda,Spain,2016,R,108 min, International Movies,724
 4446,Movie,Neruda,United States,2016,R,108 min,Dramas,840
 4446,Movie,Neruda,United States,2016,R,108 min, International Movies,840
-4447,Movie,Neseli Hayat,Turkey,2009,TV-14,108 min,Comedies,
-4447,Movie,Neseli Hayat,Turkey,2009,TV-14,108 min, International Movies,
 4448,TV Show,Netflix Presents: The Characters,United States,2016,TV-MA,1 Season,TV Comedies,840
 4449,TV Show,Never Have I Ever,United States,2020,TV-14,1 Season,TV Comedies,840
 4449,TV Show,Never Have I Ever,United States,2020,TV-14,1 Season, TV Dramas,840
@@ -11188,9 +10932,6 @@
 4464,Movie,Night Moves,United States,2013,R,113 min,Dramas,840
 4464,Movie,Night Moves,United States,2013,R,113 min, Independent Movies,840
 4464,Movie,Night Moves,United States,2013,R,113 min, Thrillers,840
-4465,Movie,Night of Knots,Turkey,2018,TV-MA,93 min,Comedies,
-4465,Movie,Night of Knots,Turkey,2018,TV-MA,93 min, International Movies,
-4465,Movie,Night of Knots,Turkey,2018,TV-MA,93 min, Romantic Movies,
 4466,TV Show,Night on Earth,United Kingdom,2020,TV-PG,1 Season,Docuseries,826
 4466,TV Show,Night on Earth,United Kingdom,2020,TV-PG,1 Season, Science & Nature TV,826
 4467,Movie,Night on Earth: Shot in the Dark,United Kingdom,2020,TV-PG,59 min,Movies,826
@@ -11237,8 +10978,6 @@
 4481,TV Show,"Nisman: The Prosecutor, the President, and the Spy",United States,2020,TV-MA,1 Season,Crime TV Shows,840
 4481,TV Show,"Nisman: The Prosecutor, the President, and the Spy",United States,2020,TV-MA,1 Season, Docuseries,840
 4481,TV Show,"Nisman: The Prosecutor, the President, and the Spy",United States,2020,TV-MA,1 Season, International TV Shows,840
-4482,Movie,Niyazi Gül Dörtnala,Turkey,2015,TV-14,102 min,Comedies,
-4482,Movie,Niyazi Gül Dörtnala,Turkey,2015,TV-14,102 min, International Movies,
 4483,Movie,Njan Prakashan,India,2018,TV-PG,125 min,Comedies,356
 4483,Movie,Njan Prakashan,India,2018,TV-PG,125 min, Dramas,356
 4483,Movie,Njan Prakashan,India,2018,TV-PG,125 min, International Movies,356
@@ -11694,9 +11433,6 @@
 4657,TV Show,One-Punch Man,Japan,2015,TV-14,1 Season,Anime Series,392
 4657,TV Show,One-Punch Man,Japan,2015,TV-14,1 Season, Crime TV Shows,392
 4657,TV Show,One-Punch Man,Japan,2015,TV-14,1 Season, International TV Shows,392
-4658,Movie,One-Way to Tomorrow,Turkey,2020,TV-MA,90 min,Dramas,
-4658,Movie,One-Way to Tomorrow,Turkey,2020,TV-MA,90 min, International Movies,
-4658,Movie,One-Way to Tomorrow,Turkey,2020,TV-MA,90 min, Romantic Movies,
 4659,Movie,Only,United States,2019,TV-MA,97 min,Dramas,840
 4659,Movie,Only,United States,2019,TV-MA,97 min, Independent Movies,840
 4659,Movie,Only,United States,2019,TV-MA,97 min, Romantic Movies,840
@@ -11767,9 +11503,6 @@
 4680,Movie,Ordinary People,Philippines,2016,TV-MA,107 min, International Movies,608
 4681,Movie,Ordinary World,United States,2016,TV-14,87 min,Comedies,840
 4681,Movie,Ordinary World,United States,2016,TV-14,87 min, Dramas,840
-4682,Movie,Organize Isler,Turkey,2005,TV-14,104 min,Action & Adventure,
-4682,Movie,Organize Isler,Turkey,2005,TV-14,104 min, Comedies,
-4682,Movie,Organize Isler,Turkey,2005,TV-14,104 min, International Movies,
 4683,TV Show,Origins Collection,United States,2018,TV-PG,3 Seasons,Docuseries,840
 4684,Movie,Oru Vishsheshapetta Biryani Kissa,India,2017,TV-14,122 min,Comedies,356
 4684,Movie,Oru Vishsheshapetta Biryani Kissa,India,2017,TV-14,122 min, Dramas,356
@@ -11852,8 +11585,6 @@
 4712,Movie,Over the Moon,China,2020,PG,100 min, Music & Musicals,156
 4712,Movie,Over the Moon,United States,2020,PG,100 min,Children & Family Movies,840
 4712,Movie,Over the Moon,United States,2020,PG,100 min, Music & Musicals,840
-4713,Movie,Overnight Republic,Turkey,2017,TV-MA,105 min,Comedies,
-4713,Movie,Overnight Republic,Turkey,2017,TV-MA,105 min, International Movies,
 4714,Movie,Oversize Cops,Thailand,2017,TV-MA,100 min,Action & Adventure,764
 4714,Movie,Oversize Cops,Thailand,2017,TV-MA,100 min, Comedies,764
 4714,Movie,Oversize Cops,Thailand,2017,TV-MA,100 min, International Movies,764
@@ -12042,9 +11773,6 @@
 4793,TV Show,Patriot Act with Hasan Minhaj,United States,2020,TV-MA,6 Seasons,Stand-Up Comedy & Talk Shows,840
 4793,TV Show,Patriot Act with Hasan Minhaj,United States,2020,TV-MA,6 Seasons, TV Comedies,840
 4794,Movie,Patriot Games,United States,1992,R,117 min,Action & Adventure,840
-4795,Movie,Patron Mutlu Son Istiyor,Turkey,2014,TV-MA,105 min,Comedies,
-4795,Movie,Patron Mutlu Son Istiyor,Turkey,2014,TV-MA,105 min, International Movies,
-4795,Movie,Patron Mutlu Son Istiyor,Turkey,2014,TV-MA,105 min, Romantic Movies,
 4796,Movie,Patton Oswalt: Annihilation,United States,2017,TV-MA,66 min,Stand-Up Comedy,840
 4797,TV Show,Patton Oswalt: I Love Everything,United States,2020,TV-MA,1 Season,Stand-Up Comedy & Talk Shows,840
 4797,TV Show,Patton Oswalt: I Love Everything,United States,2020,TV-MA,1 Season, TV Comedies,840
@@ -12092,8 +11820,6 @@
 4814,Movie,Pegasus,China,2019,TV-MA,98 min,Comedies,156
 4814,Movie,Pegasus,China,2019,TV-MA,98 min, Dramas,156
 4814,Movie,Pegasus,China,2019,TV-MA,98 min, International Movies,156
-4815,Movie,Pek Yakında,Turkey,2014,TV-MA,134 min,Comedies,
-4815,Movie,Pek Yakında,Turkey,2014,TV-MA,134 min, International Movies,
 4816,Movie,Pekak,Malaysia,2016,TV-MA,95 min,Dramas,458
 4816,Movie,Pekak,Malaysia,2016,TV-MA,95 min, International Movies,458
 4817,Movie,Penalty,India,2019,TV-14,125 min,Dramas,356
@@ -12340,9 +12066,6 @@
 4908,Movie,Pope Francis: A Man of His Word,Switzerland,2018,PG,96 min,Documentaries,756
 4908,Movie,Pope Francis: A Man of His Word,Switzerland,2018,PG,96 min, Faith & Spirituality,756
 4908,Movie,Pope Francis: A Man of His Word,Switzerland,2018,PG,96 min, International Movies,756
-4908,Movie,Pope Francis: A Man of His Word,Vatican City,2018,PG,96 min,Documentaries,
-4908,Movie,Pope Francis: A Man of His Word,Vatican City,2018,PG,96 min, Faith & Spirituality,
-4908,Movie,Pope Francis: A Man of His Word,Vatican City,2018,PG,96 min, International Movies,
 4908,Movie,Pope Francis: A Man of His Word,Italy,2018,PG,96 min,Documentaries,380
 4908,Movie,Pope Francis: A Man of His Word,Italy,2018,PG,96 min, Faith & Spirituality,380
 4908,Movie,Pope Francis: A Man of His Word,Italy,2018,PG,96 min, International Movies,380
@@ -12987,9 +12710,6 @@
 5171,Movie,Results,United States,2015,R,105 min, Independent Movies,840
 5172,Movie,Resurface,United States,2017,TV-MA,28 min,Documentaries,840
 5172,Movie,Resurface,United States,2017,TV-MA,28 min, Sports Movies,840
-5173,TV Show,Resurrection: Ertugrul,Turkey,2018,TV-14,5 Seasons,International TV Shows,
-5173,TV Show,Resurrection: Ertugrul,Turkey,2018,TV-14,5 Seasons, TV Action & Adventure,
-5173,TV Show,Resurrection: Ertugrul,Turkey,2018,TV-14,5 Seasons, TV Dramas,
 5174,Movie,Retablo,Peru,2017,TV-MA,102 min,Dramas,604
 5174,Movie,Retablo,Peru,2017,TV-MA,102 min, International Movies,604
 5174,Movie,Retablo,Germany,2017,TV-MA,102 min,Dramas,276
@@ -13194,12 +12914,6 @@
 5264,TV Show,Romance is a bonus book,South Korea,2019,TV-14,1 Season,International TV Shows,410
 5264,TV Show,Romance is a bonus book,South Korea,2019,TV-14,1 Season, Korean TV Shows,410
 5264,TV Show,Romance is a bonus book,South Korea,2019,TV-14,1 Season, Romantic TV Shows,410
-5265,Movie,Romantik Komedi,Turkey,2010,NR,110 min,Comedies,
-5265,Movie,Romantik Komedi,Turkey,2010,NR,110 min, International Movies,
-5265,Movie,Romantik Komedi,Turkey,2010,NR,110 min, Romantic Movies,
-5266,Movie,Romantik Komedi 2: Bekarlığa Veda,Turkey,2013,TV-14,105 min,Comedies,
-5266,Movie,Romantik Komedi 2: Bekarlığa Veda,Turkey,2013,TV-14,105 min, International Movies,
-5266,Movie,Romantik Komedi 2: Bekarlığa Veda,Turkey,2013,TV-14,105 min, Romantic Movies,
 5267,Movie,Romeo Akbar Walter,India,2019,TV-14,141 min,Dramas,356
 5267,Movie,Romeo Akbar Walter,India,2019,TV-14,141 min, International Movies,356
 5267,Movie,Romeo Akbar Walter,India,2019,TV-14,141 min, Thrillers,356
@@ -13362,9 +13076,6 @@
 5332,Movie,Sacro GRA,France,2013,TV-MA,91 min, International Movies,250
 5333,Movie,Sad Hill Unearthed,Spain,2017,TV-14,83 min,Documentaries,724
 5333,Movie,Sad Hill Unearthed,Spain,2017,TV-14,83 min, International Movies,724
-5334,Movie,Sadece Sen,Turkey,2014,TV-MA,105 min,Dramas,
-5334,Movie,Sadece Sen,Turkey,2014,TV-MA,105 min, International Movies,
-5334,Movie,Sadece Sen,Turkey,2014,TV-MA,105 min, Romantic Movies,
 5335,Movie,Sadie's Last Days on Earth,Canada,2016,TV-14,94 min,Comedies,124
 5335,Movie,Sadie's Last Days on Earth,Canada,2016,TV-14,94 min, Sci-Fi & Fantasy,124
 5336,Movie,Sadma,India,1983,TV-14,137 min,Dramas,356
@@ -13727,8 +13438,6 @@
 5488,Movie,Selfless,United States,2015,PG-13,117 min, Thrillers,840
 5490,Movie,Semana Santa,Mexico,2015,TV-MA,87 min,Dramas,484
 5490,Movie,Semana Santa,Mexico,2015,TV-MA,87 min, International Movies,484
-5491,Movie,Sen Kimsin?,Turkey,2012,TV-14,102 min,Comedies,
-5491,Movie,Sen Kimsin?,Turkey,2012,TV-14,102 min, International Movies,
 5492,Movie,Senna,United Kingdom,2010,PG-13,106 min,Documentaries,826
 5492,Movie,Senna,United Kingdom,2010,PG-13,106 min, International Movies,826
 5492,Movie,Senna,United Kingdom,2010,PG-13,106 min, Sports Movies,826
@@ -13853,7 +13562,6 @@
 5535,Movie,Shaitan,India,2011,TV-MA,126 min, Independent Movies,356
 5536,TV Show,Shaka Zulu,Italy,1986,TV-14,1 Season,TV Dramas,380
 5536,TV Show,Shaka Zulu,South Africa,1986,TV-14,1 Season,TV Dramas,710
-5536,TV Show,Shaka Zulu,West Germany,1986,TV-14,1 Season,TV Dramas,
 5536,TV Show,Shaka Zulu,Australia,1986,TV-14,1 Season,TV Dramas,036
 5536,TV Show,Shaka Zulu,United States,1986,TV-14,1 Season,TV Dramas,840
 5537,Movie,Shakti: The Power,India,2002,TV-MA,168 min,Dramas,356
@@ -13942,9 +13650,6 @@
 5564,Movie,Shikari,India,1991,TV-14,163 min,Dramas,356
 5564,Movie,Shikari,India,1991,TV-14,163 min, International Movies,356
 5564,Movie,Shikari,India,1991,TV-14,163 min, Music & Musicals,356
-5564,Movie,Shikari,Soviet Union,1991,TV-14,163 min,Dramas,
-5564,Movie,Shikari,Soviet Union,1991,TV-14,163 min, International Movies,
-5564,Movie,Shikari,Soviet Union,1991,TV-14,163 min, Music & Musicals,
 5565,Movie,Shimla Mirchi,India,2020,TV-14,121 min,Comedies,356
 5565,Movie,Shimla Mirchi,India,2020,TV-14,121 min, International Movies,356
 5565,Movie,Shimla Mirchi,India,2020,TV-14,121 min, Romantic Movies,356
@@ -14070,9 +13775,6 @@
 5610,Movie,Silver Linings Playbook,United States,2012,R,122 min,Comedies,840
 5610,Movie,Silver Linings Playbook,United States,2012,R,122 min, Dramas,840
 5610,Movie,Silver Linings Playbook,United States,2012,R,122 min, Independent Movies,840
-5611,TV Show,Silver Spoon,Russia,2015,TV-MA,2 Seasons,Crime TV Shows,
-5611,TV Show,Silver Spoon,Russia,2015,TV-MA,2 Seasons, International TV Shows,
-5611,TV Show,Silver Spoon,Russia,2015,TV-MA,2 Seasons, TV Action & Adventure,
 5612,TV Show,Simon,France,2016,TV-Y,1 Season,Kids' TV,250
 5613,Movie,Simon Amstell: Set Free,United Kingdom,2019,TV-MA,52 min,Stand-Up Comedy,826
 5614,Movie,Simon Killer,United States,2012,TV-MA,105 min,Dramas,840
@@ -14289,9 +13991,6 @@
 5693,Movie,Sohni Mahiwal,India,1984,TV-14,160 min,Dramas,356
 5693,Movie,Sohni Mahiwal,India,1984,TV-14,160 min, International Movies,356
 5693,Movie,Sohni Mahiwal,India,1984,TV-14,160 min, Romantic Movies,356
-5693,Movie,Sohni Mahiwal,Soviet Union,1984,TV-14,160 min,Dramas,
-5693,Movie,Sohni Mahiwal,Soviet Union,1984,TV-14,160 min, International Movies,
-5693,Movie,Sohni Mahiwal,Soviet Union,1984,TV-14,160 min, Romantic Movies,
 5694,Movie,Sol Levante,Japan,2020,TV-14,5 min,Action & Adventure,392
 5694,Movie,Sol Levante,Japan,2020,TV-14,5 min, Anime Features,392
 5694,Movie,Sol Levante,Japan,2020,TV-14,5 min, International Movies,392
@@ -14413,9 +14112,6 @@
 5739,Movie,Sparring,France,2017,TV-MA,94 min,Dramas,250
 5739,Movie,Sparring,France,2017,TV-MA,94 min, International Movies,250
 5739,Movie,Sparring,France,2017,TV-MA,94 min, Sports Movies,250
-5740,TV Show,Sparta,Russia,2018,TV-MA,1 Season,Crime TV Shows,
-5740,TV Show,Sparta,Russia,2018,TV-MA,1 Season, International TV Shows,
-5740,TV Show,Sparta,Russia,2018,TV-MA,1 Season, TV Dramas,
 5741,TV Show,Spartacus,United States,2013,TV-MA,4 Seasons,TV Action & Adventure,840
 5741,TV Show,Spartacus,United States,2013,TV-MA,4 Seasons, TV Dramas,840
 5742,TV Show,Special,United States,2019,TV-MA,1 Season,TV Comedies,840
@@ -14691,13 +14387,7 @@
 5857,Movie,Stuart Little,United States,1999,PG,85 min, Comedies,840
 5858,Movie,Stuart Little 2,United States,2002,PG,78 min,Children & Family Movies,840
 5858,Movie,Stuart Little 2,United States,2002,PG,78 min, Comedies,840
-5859,Movie,Stuck Apart,Turkey,2021,TV-MA,97 min,Comedies,
-5859,Movie,Stuck Apart,Turkey,2021,TV-MA,97 min, Dramas,
-5859,Movie,Stuck Apart,Turkey,2021,TV-MA,97 min, International Movies,
 5860,Movie,Studio 54,United States,2018,TV-MA,99 min,Documentaries,840
-5861,Movie,Stunt School,Turkey,2019,TV-G,95 min,Children & Family Movies,
-5861,Movie,Stunt School,Turkey,2019,TV-G,95 min, Comedies,
-5861,Movie,Stunt School,Turkey,2019,TV-G,95 min, International Movies,
 5862,TV Show,Stunt Science,United Kingdom,2018,TV-MA,1 Season,British TV Shows,826
 5862,TV Show,Stunt Science,United Kingdom,2018,TV-MA,1 Season, International TV Shows,826
 5862,TV Show,Stunt Science,United Kingdom,2018,TV-MA,1 Season, Reality TV,826
@@ -15580,9 +15270,6 @@
 6187,Movie,The Burial of Kojo,United States,2018,TV-14,81 min, Independent Movies,840
 6187,Movie,The Burial of Kojo,United States,2018,TV-14,81 min, International Movies,840
 6188,TV Show,The Business of Drugs,United States,2020,TV-MA,1 Season,Docuseries,840
-6189,Movie,The Butterfly's Dream,Turkey,2013,TV-PG,118 min,Dramas,
-6189,Movie,The Butterfly's Dream,Turkey,2013,TV-PG,118 min, International Movies,
-6189,Movie,The Butterfly's Dream,Turkey,2013,TV-PG,118 min, Romantic Movies,
 6190,Movie,The Bye Bye Man,United States,2017,PG-13,96 min,Horror Movies,840
 6190,Movie,The Bye Bye Man,United States,2017,PG-13,96 min, Thrillers,840
 6190,Movie,The Bye Bye Man,China,2017,PG-13,96 min,Horror Movies,156
@@ -16187,9 +15874,6 @@
 6391,Movie,The Ghost Who Walks,United States,2019,TV-MA,107 min, Thrillers,840
 6392,Movie,The Giant,Spain,2017,TV-14,115 min,Dramas,724
 6392,Movie,The Giant,Spain,2017,TV-14,115 min, International Movies,724
-6393,TV Show,The Gift,Turkey,2020,TV-MA,2 Seasons,International TV Shows,
-6393,TV Show,The Gift,Turkey,2020,TV-MA,2 Seasons, TV Dramas,
-6393,TV Show,The Gift,Turkey,2020,TV-MA,2 Seasons, TV Mysteries,
 6394,Movie,The Girl Allergic to Wi-Fi,Philippines,2018,TV-MA,104 min,International Movies,608
 6394,Movie,The Girl Allergic to Wi-Fi,Philippines,2018,TV-MA,104 min, Romantic Movies,608
 6395,Movie,The Girl from the Song,Spain,2016,TV-MA,101 min,Dramas,724
@@ -16965,9 +16649,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 6660,TV Show,The Messengers,United States,2015,TV-14,1 Season,TV Dramas,840
 6660,TV Show,The Messengers,United States,2015,TV-14,1 Season, TV Mysteries,840
 6660,TV Show,The Messengers,United States,2015,TV-14,1 Season, TV Sci-Fi & Fantasy,840
-6661,TV Show,The Method,Russia,2015,TV-MA,1 Season,Crime TV Shows,
-6661,TV Show,The Method,Russia,2015,TV-MA,1 Season, International TV Shows,
-6661,TV Show,The Method,Russia,2015,TV-MA,1 Season, TV Dramas,
 6662,Movie,The Meyerowitz Stories (New and Selected),United States,2017,TV-MA,113 min,Comedies,840
 6662,Movie,The Meyerowitz Stories (New and Selected),United States,2017,TV-MA,113 min, Dramas,840
 6662,Movie,The Meyerowitz Stories (New and Selected),United States,2017,TV-MA,113 min, Independent Movies,840
@@ -17155,8 +16836,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 6731,Movie,The Other Side of the Wind,United States,2018,R,122 min,Classic Movies,840
 6731,Movie,The Other Side of the Wind,United States,2018,R,122 min, Dramas,840
 6731,Movie,The Other Side of the Wind,United States,2018,R,122 min, Independent Movies,840
-6732,Movie,The Ottoman Lieutenant,Turkey,2017,R,111 min,Dramas,
-6732,Movie,The Ottoman Lieutenant,Turkey,2017,R,111 min, Romantic Movies,
 6732,Movie,The Ottoman Lieutenant,United States,2017,R,111 min,Dramas,840
 6732,Movie,The Ottoman Lieutenant,United States,2017,R,111 min, Romantic Movies,840
 6733,Movie,The Outcasts,United States,2017,TV-14,94 min,Comedies,840
@@ -17303,9 +16982,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 6787,TV Show,The Promised Neverland,Japan,2019,TV-14,1 Season,Anime Series,392
 6787,TV Show,The Promised Neverland,Japan,2019,TV-14,1 Season, International TV Shows,392
 6787,TV Show,The Promised Neverland,Japan,2019,TV-14,1 Season, TV Thrillers,392
-6788,TV Show,The Protector,Turkey,2020,TV-MA,4 Seasons,International TV Shows,
-6788,TV Show,The Protector,Turkey,2020,TV-MA,4 Seasons, Romantic TV Shows,
-6788,TV Show,The Protector,Turkey,2020,TV-MA,4 Seasons, TV Action & Adventure,
 6789,Movie,The Pursuit,United States,2019,TV-14,76 min,Documentaries,840
 6790,Movie,The Pursuit of Happyness,United States,2006,PG-13,117 min,Dramas,840
 6791,Movie,The Push,United States,2018,TV-MA,90 min,Documentaries,840
@@ -17416,8 +17092,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 6827,Movie,The River Thief,United States,2016,NR,87 min,Dramas,840
 6827,Movie,The River Thief,United States,2016,NR,87 min, Independent Movies,840
 6828,Movie,The River Wild,United States,1994,PG-13,111 min,Action & Adventure,840
-6829,TV Show,The Road to Calvary,Russia,2017,TV-14,1 Season,International TV Shows,
-6829,TV Show,The Road to Calvary,Russia,2017,TV-14,1 Season, TV Dramas,
 6830,Movie,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,United States,2019,TV-14,14 min,Documentaries,840
 6830,Movie,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,United States,2019,TV-14,14 min, International Movies,840
 6831,TV Show,The Road to Love,Colombia,2019,TV-14,1 Season,International TV Shows,170
@@ -17962,9 +17636,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7023,Movie,The Wrong Babysitter,Canada,2017,TV-14,89 min,Thrillers,124
 7024,Movie,The Wrong Missy,United States,2020,TV-MA,90 min,Comedies,840
 7024,Movie,The Wrong Missy,United States,2020,TV-MA,90 min, Romantic Movies,840
-7025,TV Show,The Yard,Turkey,2019,TV-MA,2 Seasons,Crime TV Shows,
-7025,TV Show,The Yard,Turkey,2019,TV-MA,2 Seasons, International TV Shows,
-7025,TV Show,The Yard,Turkey,2019,TV-MA,2 Seasons, TV Dramas,
 7026,TV Show,The Year of Happiness and Love,Taiwan,2009,TV-PG,1 Season,International TV Shows,158
 7026,TV Show,The Year of Happiness and Love,Taiwan,2009,TV-PG,1 Season, Romantic TV Shows,158
 7026,TV Show,The Year of Happiness and Love,Taiwan,2009,TV-PG,1 Season, TV Comedies,158
@@ -18178,9 +17849,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7116,Movie,"To Each, Her Own",France,2018,TV-MA,95 min, LGBTQ Movies,250
 7117,Movie,To the Bone,United States,2017,TV-MA,108 min,Dramas,840
 7117,Movie,To the Bone,United States,2017,TV-MA,108 min, Independent Movies,840
-7118,TV Show,To the Lake,Russia,2020,TV-MA,1 Season,International TV Shows,
-7118,TV Show,To the Lake,Russia,2020,TV-MA,1 Season, TV Dramas,
-7118,TV Show,To the Lake,Russia,2020,TV-MA,1 Season, TV Mysteries,
 7119,Movie,"To Wong Foo, Thanks for Everything! Julie Newmar",United States,1995,PG-13,108 min,Comedies,840
 7119,Movie,"To Wong Foo, Thanks for Everything! Julie Newmar",United States,1995,PG-13,108 min, Cult Movies,840
 7119,Movie,"To Wong Foo, Thanks for Everything! Julie Newmar",United States,1995,PG-13,108 min, LGBTQ Movies,840
@@ -18220,9 +17888,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7132,TV Show,Tokyo Trial,Japan,2017,TV-MA,1 Season, TV Dramas,392
 7132,TV Show,Tokyo Trial,Netherlands,2017,TV-MA,1 Season,International TV Shows,528
 7132,TV Show,Tokyo Trial,Netherlands,2017,TV-MA,1 Season, TV Dramas,528
-7133,Movie,Toll Booth,Turkey,2010,TV-MA,98 min,Dramas,
-7133,Movie,Toll Booth,Turkey,2010,TV-MA,98 min, Independent Movies,
-7133,Movie,Toll Booth,Turkey,2010,TV-MA,98 min, International Movies,
 7135,Movie,Tom Papa Live in New York City,United States,2011,TV-14,57 min,Stand-Up Comedy,840
 7136,Movie,Tom Papa: You're Doing Great!,United States,2020,TV-14,60 min,Stand-Up Comedy,840
 7137,Movie,Tom Segura: Ball Hog,United States,2020,TV-MA,70 min,Stand-Up Comedy,840
@@ -18364,8 +18029,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7197,Movie,Trash Fire,United States,2016,R,94 min,Comedies,840
 7197,Movie,Trash Fire,United States,2016,R,94 min, Dramas,840
 7197,Movie,Trash Fire,United States,2016,R,94 min, Independent Movies,840
-7199,Movie,Travel Mates 2,Turkey,2018,TV-MA,111 min,Comedies,
-7199,Movie,Travel Mates 2,Turkey,2018,TV-MA,111 min, International Movies,
 7200,TV Show,Travelers,Canada,2018,TV-MA,3 Seasons,Crime TV Shows,124
 7200,TV Show,Travelers,Canada,2018,TV-MA,3 Seasons, International TV Shows,124
 7200,TV Show,Travelers,Canada,2018,TV-MA,3 Seasons, TV Dramas,124
@@ -18458,8 +18121,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7235,Movie,Trophy,United States,2017,TV-MA,110 min,Documentaries,840
 7235,Movie,Trophy,United States,2017,TV-MA,110 min, International Movies,840
 7236,TV Show,Trotro,France,2004,TV-Y,1 Season,Kids' TV,250
-7237,TV Show,Trotsky,Russia,2017,TV-MA,1 Season,International TV Shows,
-7237,TV Show,Trotsky,Russia,2017,TV-MA,1 Season, TV Dramas,
 7238,TV Show,Troy,United Kingdom,2018,TV-MA,1 Season,British TV Shows,826
 7238,TV Show,Troy,United Kingdom,2018,TV-MA,1 Season, International TV Shows,826
 7238,TV Show,Troy,United Kingdom,2018,TV-MA,1 Season, Romantic TV Shows,826
@@ -18529,9 +18190,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7270,Movie,Turbo,United States,2013,PG,96 min,Children & Family Movies,840
 7270,Movie,Turbo,United States,2013,PG,96 min, Comedies,840
 7271,TV Show,Turbo FAST,United States,2016,TV-Y7,3 Seasons,Kids' TV,840
-7272,Movie,Turkish Dance School,Turkey,2017,TV-MA,107 min,Comedies,
-7272,Movie,Turkish Dance School,Turkey,2017,TV-MA,107 min, International Movies,
-7272,Movie,Turkish Dance School,Turkey,2017,TV-MA,107 min, Romantic Movies,
 7273,TV Show,Turn Up Charlie,United Kingdom,2019,TV-MA,1 Season,British TV Shows,826
 7273,TV Show,Turn Up Charlie,United Kingdom,2019,TV-MA,1 Season, International TV Shows,826
 7273,TV Show,Turn Up Charlie,United Kingdom,2019,TV-MA,1 Season, TV Comedies,826
@@ -18743,8 +18401,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7345,Movie,Unfinished Song,Germany,2012,PG-13,94 min, Independent Movies,276
 7346,Movie,Unfriended,United States,2014,R,83 min,Horror Movies,840
 7346,Movie,Unfriended,United States,2014,R,83 min, Thrillers,840
-7346,Movie,Unfriended,Russia,2014,R,83 min,Horror Movies,
-7346,Movie,Unfriended,Russia,2014,R,83 min, Thrillers,
 7347,Movie,Ungli,India,2014,TV-14,114 min,Comedies,356
 7347,Movie,Ungli,India,2014,TV-14,114 min, Dramas,356
 7347,Movie,Ungli,India,2014,TV-14,114 min, International Movies,356
@@ -18976,12 +18632,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7437,Movie,Vivah,India,2006,TV-14,166 min,Dramas,356
 7437,Movie,Vivah,India,2006,TV-14,166 min, International Movies,356
 7437,Movie,Vivah,India,2006,TV-14,166 min, Romantic Movies,356
-7438,Movie,Vizontele,Turkey,2001,NR,106 min,Comedies,
-7438,Movie,Vizontele,Turkey,2001,NR,106 min, Dramas,
-7438,Movie,Vizontele,Turkey,2001,NR,106 min, International Movies,
-7439,Movie,Vizontele Tuuba,Turkey,2004,NR,106 min,Comedies,
-7439,Movie,Vizontele Tuuba,Turkey,2004,NR,106 min, Dramas,
-7439,Movie,Vizontele Tuuba,Turkey,2004,NR,106 min, International Movies,
 7440,Movie,Vodka Diaries,India,2018,TV-14,113 min,Dramas,356
 7440,Movie,Vodka Diaries,India,2018,TV-14,113 min, International Movies,356
 7440,Movie,Vodka Diaries,India,2018,TV-14,113 min, Thrillers,356
@@ -19293,9 +18943,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7551,Movie,What Happened to Mr. Cha?,South Korea,2021,TV-MA,102 min, International Movies,410
 7552,Movie,"What Happened, Miss Simone?",United States,2015,TV-14,103 min,Documentaries,840
 7552,Movie,"What Happened, Miss Simone?",United States,2015,TV-14,103 min, Music & Musicals,840
-7553,TV Show,What Happens to My Family,Turkey,2016,TV-14,1 Season,International TV Shows,
-7553,TV Show,What Happens to My Family,Turkey,2016,TV-14,1 Season, TV Comedies,
-7553,TV Show,What Happens to My Family,Turkey,2016,TV-14,1 Season, TV Dramas,
 7555,TV Show,What in the World Happened?,South Korea,2015,TV-14,1 Season,International TV Shows,410
 7555,TV Show,What in the World Happened?,South Korea,2015,TV-14,1 Season, Korean TV Shows,410
 7555,TV Show,What in the World Happened?,South Korea,2015,TV-14,1 Season, Romantic TV Shows,410
@@ -19516,12 +19163,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7628,Movie,Willy Wonka & the Chocolate Factory,United States,1971,G,100 min,Children & Family Movies,840
 7628,Movie,Willy Wonka & the Chocolate Factory,United States,1971,G,100 min, Classic Movies,840
 7628,Movie,Willy Wonka & the Chocolate Factory,United States,1971,G,100 min, Comedies,840
-7628,Movie,Willy Wonka & the Chocolate Factory,East Germany,1971,G,100 min,Children & Family Movies,
-7628,Movie,Willy Wonka & the Chocolate Factory,East Germany,1971,G,100 min, Classic Movies,
-7628,Movie,Willy Wonka & the Chocolate Factory,East Germany,1971,G,100 min, Comedies,
-7628,Movie,Willy Wonka & the Chocolate Factory,West Germany,1971,G,100 min,Children & Family Movies,
-7628,Movie,Willy Wonka & the Chocolate Factory,West Germany,1971,G,100 min, Classic Movies,
-7628,Movie,Willy Wonka & the Chocolate Factory,West Germany,1971,G,100 min, Comedies,
 7629,Movie,Win It All,United States,2017,TV-MA,89 min,Comedies,840
 7629,Movie,Win It All,United States,2017,TV-MA,89 min, Independent Movies,840
 7629,Movie,Win It All,United States,2017,TV-MA,89 min, Romantic Movies,840
@@ -19550,9 +19191,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7636,Movie,Winter on Fire: Ukraine's Fight for Freedom,Ukraine,2015,TV-MA,99 min, International Movies,804
 7636,Movie,Winter on Fire: Ukraine's Fight for Freedom,United States,2015,TV-MA,99 min,Documentaries,840
 7636,Movie,Winter on Fire: Ukraine's Fight for Freedom,United States,2015,TV-MA,99 min, International Movies,840
-7637,TV Show,Winter Sun,Turkey,2014,TV-MA,1 Season,International TV Shows,
-7637,TV Show,Winter Sun,Turkey,2014,TV-MA,1 Season, TV Dramas,
-7637,TV Show,Winter Sun,Turkey,2014,TV-MA,1 Season, TV Thrillers,
 7638,Movie,Winter's Bone,United States,2010,R,100 min,Dramas,840
 7638,Movie,Winter's Bone,United States,2010,R,100 min, Independent Movies,840
 7639,TV Show,Winx Club,Italy,2015,TV-Y7,1 Season,Kids' TV,380
@@ -19582,9 +19220,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7650,TV Show,Wizards: Tales of Arcadia,United States,2020,TV-Y7,1 Season,Kids' TV,840
 7650,TV Show,Wizards: Tales of Arcadia,United States,2020,TV-Y7,1 Season, TV Action & Adventure,840
 7650,TV Show,Wizards: Tales of Arcadia,United States,2020,TV-Y7,1 Season, TV Sci-Fi & Fantasy,840
-7651,TV Show,Wolf,Turkey,2018,TV-MA,1 Season,International TV Shows,
-7651,TV Show,Wolf,Turkey,2018,TV-MA,1 Season, TV Action & Adventure,
-7651,TV Show,Wolf,Turkey,2018,TV-MA,1 Season, TV Dramas,
 7652,Movie,Wolves,United States,2016,R,109 min,Dramas,840
 7652,Movie,Wolves,United States,2016,R,109 min, Independent Movies,840
 7652,Movie,Wolves,United States,2016,R,109 min, Sports Movies,840
@@ -19739,7 +19374,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7714,Movie,Yoga Hosers,United States,2016,PG-13,88 min,Comedies,840
 7714,Movie,Yoga Hosers,United States,2016,PG-13,88 min, Horror Movies,840
 7714,Movie,Yoga Hosers,United States,2016,PG-13,88 min, Independent Movies,840
-7716,Movie,Yoko and His Friends,Russia,2015,TV-Y,78 min,Children & Family Movies,
 7716,Movie,Yoko and His Friends,Spain,2015,TV-Y,78 min,Children & Family Movies,724
 7718,Movie,Yoo Byung Jae: Discomfort Zone,South Korea,2018,TV-MA,54 min,Stand-Up Comedy,410
 7720,TV Show,YooHoo to the Rescue,South Korea,2020,TV-Y,3 Seasons,Kids' TV,410
@@ -19773,9 +19407,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7730,TV Show,You vs. Wild,United States,2019,TV-PG,1 Season,Kids' TV,840
 7730,TV Show,You vs. Wild,United States,2019,TV-PG,1 Season, Reality TV,840
 7730,TV Show,You vs. Wild,United States,2019,TV-PG,1 Season, Science & Nature TV,840
-7731,Movie,You're Everything To Me,Turkey,2016,TV-PG,107 min,Comedies,
-7731,Movie,You're Everything To Me,Turkey,2016,TV-PG,107 min, Dramas,
-7731,Movie,You're Everything To Me,Turkey,2016,TV-PG,107 min, Independent Movies,
 7732,Movie,You're My Boss,Philippines,2015,TV-14,117 min,Comedies,608
 7732,Movie,You're My Boss,Philippines,2015,TV-14,117 min, International Movies,608
 7732,Movie,You're My Boss,Philippines,2015,TV-14,117 min, Romantic Movies,608
@@ -19831,8 +19462,6 @@ Flying Fortress",United States,1944,TV-PG,40 min, Documentaries,840
 7751,Movie,Yucatán,Spain,2018,TV-MA,130 min, International Movies,724
 7752,TV Show,Yummy Mummies,Australia,2019,TV-MA,2 Seasons,International TV Shows,036
 7752,TV Show,Yummy Mummies,Australia,2019,TV-MA,2 Seasons, Reality TV,036
-7753,TV Show,Yunus Emre,Turkey,2016,TV-PG,2 Seasons,International TV Shows,
-7753,TV Show,Yunus Emre,Turkey,2016,TV-PG,2 Seasons, TV Dramas,
 7754,Movie,Yuva,India,2004,TV-14,160 min,Dramas,356
 7754,Movie,Yuva,India,2004,TV-14,160 min, International Movies,356
 7755,TV Show,Z Nation,United States,2018,TV-MA,5 Seasons,TV Action & Adventure,840
